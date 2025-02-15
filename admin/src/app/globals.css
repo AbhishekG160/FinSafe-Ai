@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #625C84 !important; /* Ensuring the background is purple */
+    color: white; /* Making text visible on the purple background */
+  }
+}
+

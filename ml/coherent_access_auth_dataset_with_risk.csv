@@ -1,0 +1,501 @@
+LogID,UserID,LoginTimestamp,FailedLoginAttempts,DeviceType,OS_BrowserInfo,IPAddress,Geolocation,MFAStatus,SessionDuration,APIAccess,PrivilegedAccess,RiskLevel
+fdaf345b-74f3-40e1-ad9b-99fe38510770,U57248,2025-02-01 04:31:35,0,PC,iOS-App,36.161.195.1,Danielleville,Enabled,29.34,Yes,Guest,0.01
+19ddde6b-8f24-4eb4-91f9-0e173e13e194,U97892,2025-01-16 11:47:43,3,Tablet,iOS-App,35.32.239.43,Samuelshire,Disabled,20.28,Yes,User,0.69
+59adcf8a-a19a-4582-861a-ed2ce1ce0adb,U47441,2025-01-20 16:51:45,0,ATM,Windows-Chrome,163.175.146.22,Gomezmouth,Disabled,4.54,Yes,Admin,0.98
+d17bb642-fc44-4d33-b7b2-2310013240c8,U76229,2025-01-14 11:07:22,0,POS,Linux-Firefox,76.118.187.106,South Ambershire,Disabled,11.14,Yes,Admin,0.82
+e50293e0-802e-4cc9-8eed-595dc463412c,U40314,2025-01-07 16:58:44,2,Mobile,Mac-Safari,30.157.19.123,Michelleburgh,Disabled,28.89,Yes,User,0.66
+586dbc50-0ca9-4471-b543-a8bbe3dbdd26,U97205,2025-01-07 10:24:21,1,PC,Mac-Safari,188.126.182.239,Williammouth,Disabled,13.33,Yes,Admin,0.92
+33a68fa3-5e37-4892-9092-ade5a26b78f5,U34734,2025-01-04 02:22:59,4,Tablet,Linux-Firefox,184.214.74.246,Billmouth,Disabled,11.55,Yes,Admin,0.84
+ee3f0a8c-e49c-4771-9bfa-4fb15884b862,U97464,2025-01-18 20:14:15,0,Tablet,Windows-Chrome,114.87.149.199,Mitchellview,Enabled,98.57,No,User,0.15
+bac5b462-77c7-4727-9fb3-3ea4de78acd2,U72759,2025-01-27 23:33:00,3,ATM,Windows-Chrome,158.236.111.59,South Richardmouth,Disabled,25.8,Yes,Admin,0.97
+3b1891c0-99b0-408c-a432-1869ce92ca01,U96937,2025-02-05 18:44:45,5,Tablet,Mac-Safari,81.223.190.142,Amandaside,Disabled,29.22,Yes,Admin,0.81
+249debad-5edb-4790-a841-2e88f7fc7723,U51924,2025-01-27 02:13:38,0,Mobile,Linux-Firefox,46.111.250.130,North Jonathan,Disabled,15.46,Yes,Admin,0.88
+b23566aa-9bd0-4b03-975a-646954e99b5a,U98541,2025-02-09 16:10:15,3,POS,iOS-App,213.177.222.147,Clintonborough,Disabled,14.07,Yes,Admin,0.9
+6c9469d4-5314-483d-9f3b-19ad0071258c,U85583,2025-01-18 05:41:00,0,PC,Linux-Firefox,17.107.6.51,Port Veronicaside,Enabled,45.35,Yes,User,0.42
+1d35c926-041b-49a6-981d-5449d4be5976,U76513,2025-02-10 15:26:41,0,PC,Windows-Chrome,158.215.37.166,North Jeffrey,Enabled,67.03,Yes,User,0.0
+6f657b0f-c5ad-4fe3-ae08-0fd37e552118,U31116,2025-01-23 18:16:15,3,Tablet,Mac-Safari,152.34.55.222,Deniseton,Disabled,13.43,Yes,Admin,1.0
+c66fa384-99cf-4b3f-a30b-2d9cffe72580,U99723,2025-01-24 04:46:13,4,Mobile,Linux-Firefox,72.86.87.220,Loganburgh,Disabled,19.96,Yes,Guest,0.78
+a689c560-2113-4212-a105-db62d689f0de,U17738,2025-01-20 17:56:02,5,POS,Linux-Firefox,99.94.224.34,New Manuel,Disabled,27.34,Yes,Admin,0.86
+2f2ad950-0613-4da4-a501-e07df6f82f9e,U14904,2025-01-17 01:33:01,5,Tablet,Linux-Firefox,22.13.80.145,Donnastad,Disabled,11.82,No,User,0.69
+4436266c-4d6e-473e-9d92-f3592dce1f8c,U37879,2025-01-28 08:06:57,2,POS,Android-App,223.131.146.49,North Mary,Disabled,6.9,Yes,Admin,0.91
+08e35035-b230-4839-876c-7c23ffd6614e,U23281,2025-01-18 15:55:36,0,Mobile,Windows-Chrome,54.189.209.167,Ballside,Disabled,40.81,Yes,User,0.02
+c357e2a0-7b82-46a3-bab3-b24f34b07693,U43898,2025-01-28 12:36:21,0,Mobile,iOS-App,82.156.160.163,Greerbury,Disabled,9.72,Yes,Admin,0.92
+84a65ef8-ab46-4efb-bde9-3c27c2b64330,U95578,2025-02-02 09:49:16,1,POS,Mac-Safari,26.233.207.57,West Daisy,Enabled,64.76,Yes,User,0.04
+06734ac3-fb9a-4384-9129-6cde70223731,U39201,2025-02-05 01:01:52,3,PC,iOS-App,17.162.175.249,North Chrisville,Disabled,13.5,Yes,Admin,0.93
+abbf354e-539b-4549-8c44-1d2d9b22b605,U14363,2025-02-11 17:41:39,0,POS,Android-App,22.214.212.109,Lake Jose,Disabled,5.22,Yes,Admin,0.85
+c099ef56-c9c1-4dc0-b4c8-b2538f3a9dd8,U45343,2025-02-03 03:46:53,0,Mobile,Android-App,109.108.187.144,Audreyfurt,Disabled,18.75,Yes,Guest,0.1
+8a0904c0-036f-433b-bb6b-7f412ef32200,U63681,2025-01-31 03:36:18,3,Tablet,Mac-Safari,24.125.113.175,Barberberg,Disabled,9.3,Yes,Admin,0.83
+62167351-3649-4171-9345-b97762a8b0bb,U61525,2025-01-27 06:58:35,4,Mobile,iOS-App,214.46.37.221,Lake Alexander,Disabled,22.72,Yes,Admin,0.98
+785326b8-d3d7-4d88-9ffc-876f14f93034,U92443,2025-01-29 17:22:58,0,Mobile,iOS-App,209.108.103.56,New Curtisland,Disabled,18.56,Yes,Admin,0.93
+2a578740-438a-42ad-ba87-bb7a73310846,U35378,2025-01-30 17:55:07,0,PC,iOS-App,134.46.170.177,North Heatherhaven,Disabled,21.5,Yes,Admin,0.83
+663b3320-7d9a-43fa-a8d9-653bc54187aa,U92057,2025-01-15 16:39:30,2,PC,iOS-App,151.212.225.40,Aprilside,Disabled,16.14,No,Guest,0.34
+c35a3ed7-af68-4710-989f-e4c7dc13d2fc,U32655,2025-01-01 02:43:58,0,Tablet,Mac-Safari,24.117.117.45,Gregoryshire,Enabled,14.92,No,User,0.06
+57b1132a-953f-417d-b770-9e8265cae497,U85857,2025-02-02 19:34:45,2,Tablet,iOS-App,63.148.35.65,Garymouth,Disabled,14.11,Yes,Admin,0.86
+aa912216-109a-49a1-a5c7-959b97d2ba9a,U17736,2025-01-28 23:35:58,5,PC,Windows-Chrome,111.25.156.200,Samanthaborough,Disabled,24.66,Yes,Admin,0.88
+ad9ddccf-21b1-4c2a-9e4a-3eb0cb912f13,U38953,2025-01-05 21:09:53,2,PC,Android-App,6.116.203.212,South Kenneth,Disabled,6.97,Yes,User,0.52
+af283d96-0431-40fa-9aa4-7d569c16cb23,U19466,2025-02-08 21:47:30,2,ATM,Windows-Chrome,164.115.17.13,Ashleyburgh,Disabled,5.82,Yes,Guest,0.54
+b17cf9ef-208d-4294-b356-2c56e1139c81,U66719,2025-01-23 14:15:16,2,POS,iOS-App,106.31.87.236,New Marvinfort,Disabled,21.54,Yes,Admin,0.97
+2ab9a619-de2a-4a6a-8296-aa7fb4d7c569,U53118,2025-02-06 01:21:58,0,PC,Android-App,158.41.4.61,Cannonton,Disabled,15.06,Yes,Admin,0.88
+b324c509-047f-4db9-9e6a-bdce57eaea8f,U25834,2025-01-20 19:17:06,4,POS,Windows-Chrome,94.36.178.62,Lake Mary,Disabled,16.31,Yes,Admin,0.94
+0b435225-ff32-4717-b8ba-ed3e0a12aae5,U15336,2025-01-08 17:50:02,5,ATM,Linux-Firefox,51.186.182.250,West Ericmouth,Disabled,29.21,Yes,Admin,0.86
+b6ae6b30-3e5b-4aee-85ab-a0603a401caa,U30642,2025-01-06 03:37:48,1,ATM,iOS-App,70.61.178.183,Jenniferstad,Disabled,12.89,Yes,Guest,0.06
+b8cbc932-2219-4338-a8f2-934a487225bf,U43787,2025-01-19 19:27:47,5,ATM,Android-App,99.126.154.75,North Tiffanyview,Disabled,13.8,No,Guest,0.69
+950d51d0-1b5a-400e-96e3-1695c33fb415,U99747,2025-01-16 10:13:08,3,Mobile,Android-App,3.124.49.146,Thomaschester,Disabled,28.71,Yes,Guest,0.55
+44eb89a2-94fd-43f4-9a78-e3f17fed8ae7,U81728,2025-01-24 00:16:02,3,Tablet,iOS-App,106.141.116.198,West Williamfort,Disabled,1.71,Yes,Admin,0.9
+94505476-644c-4cf5-bd76-f38f2c1a672a,U85641,2025-01-13 22:36:07,0,ATM,Windows-Chrome,203.75.232.150,Briannastad,Disabled,21.54,Yes,Guest,0.56
+ff1dc8ce-aa79-4b06-8569-be05131997d8,U49003,2025-01-28 06:18:36,4,PC,Windows-Chrome,39.223.135.219,Stevenland,Disabled,26.66,Yes,Guest,0.76
+7ec0d3a5-322a-4ba3-9a0c-817bb7dda565,U84462,2025-02-04 12:21:58,4,POS,Android-App,40.91.163.81,Dixonland,Disabled,25.15,Yes,Admin,0.95
+45f99b67-f540-435c-9947-ce59c8009614,U52401,2025-01-29 11:53:50,2,PC,Windows-Chrome,219.240.199.65,West Jasonton,Enabled,17.75,Yes,User,0.01
+d6ef4fe4-8489-45e1-ac1a-594c7d871145,U76775,2025-02-05 08:50:34,2,POS,Windows-Chrome,79.147.112.179,Kayleebury,Disabled,93.52,Yes,User,0.05
+466af4d7-6243-44af-b76a-3361e280673f,U26917,2025-01-17 17:20:20,1,POS,Mac-Safari,157.207.83.0,Port Donna,Enabled,85.11,No,User,0.21
+7a4a955b-b2f4-4e58-9dba-e50b64b5562c,U35626,2025-02-05 04:08:34,5,ATM,Android-App,173.51.242.9,New James,Disabled,10.2,Yes,Admin,0.89
+24eba2d6-31d3-46f3-beed-1ddd8866c2f3,U53522,2025-01-30 11:57:12,0,PC,Linux-Firefox,130.162.47.77,Lake Danielle,Enabled,45.57,Yes,Guest,0.01
+75b40c87-eb54-451d-ae45-f4da7422d6be,U75079,2025-01-02 22:47:32,2,Mobile,iOS-App,95.57.167.63,West Jamieville,Enabled,25.22,No,User,0.03
+d2a25c12-1a97-42f6-9916-6f59671c1053,U50384,2025-01-28 04:33:42,0,PC,Android-App,34.48.255.254,Gilmoreside,Disabled,23.04,Yes,Admin,0.87
+c9ba1879-60bb-4e8c-b470-cf6e3f693032,U30079,2025-01-23 01:43:19,1,PC,Windows-Chrome,138.121.0.237,Lopezstad,Disabled,11.06,Yes,Guest,0.51
+720a6c74-c5ad-446d-a8c0-71301c6a9266,U58891,2025-01-03 01:28:20,0,POS,Windows-Chrome,162.216.244.30,South Shawnport,Disabled,116.82,No,User,0.01
+560add77-3731-4da4-adcf-576f5694183e,U88418,2025-01-05 08:13:41,2,PC,Linux-Firefox,158.74.4.219,Virginiaside,Enabled,33.79,Yes,User,0.06
+a136cef0-1778-44bd-b43b-74d2958d12c2,U35714,2025-02-03 17:08:10,5,POS,Mac-Safari,180.178.112.123,Crawfordbury,Disabled,29.73,Yes,Admin,0.95
+31593e70-3be2-415e-8b7b-157571335763,U92796,2025-01-01 16:07:57,3,ATM,Linux-Firefox,210.212.56.135,Adrianaborough,Disabled,24.14,Yes,User,0.78
+64a36c07-816a-48ed-9683-9714a8eb6b5d,U99469,2025-01-12 13:34:34,3,PC,Linux-Firefox,193.25.8.253,East Seanburgh,Disabled,11.3,Yes,Admin,0.87
+0f80e05a-9794-4a4f-874d-735e172f8eea,U11965,2025-01-28 06:39:32,0,ATM,iOS-App,74.160.156.21,Sarahside,Enabled,96.95,Yes,User,0.13
+60452d3f-b314-48b8-8f06-f93ccf5f7931,U39251,2025-01-30 06:38:47,3,PC,Mac-Safari,85.100.178.220,Rodriguezberg,Disabled,1.04,Yes,Guest,0.15
+6b382ac1-5316-4bc8-8bf6-b57ddfa78045,U60911,2025-01-16 10:58:09,2,Mobile,Linux-Firefox,110.209.134.210,Smithton,Enabled,94.47,No,User,0.27
+8a655d8e-9aa5-4ddc-8a1d-7899c5d57a35,U30016,2025-02-06 04:35:28,1,Tablet,Mac-Safari,128.67.58.82,Obrienland,Disabled,15.63,Yes,Admin,0.97
+4fcbd080-52b3-4d27-b6c4-a2b65dabf91f,U12579,2025-01-18 16:01:02,5,POS,iOS-App,195.167.207.101,Stanleyview,Disabled,3.97,Yes,User,0.77
+845fa3ac-3851-4a2b-ade1-1b330e714389,U93279,2025-02-03 13:20:18,2,Tablet,Android-App,35.61.35.108,North Emily,Disabled,11.86,Yes,Admin,0.85
+0f457e9c-5d68-46dc-9eb7-d2cbeeaad1e2,U44739,2025-01-09 14:42:07,3,ATM,Linux-Firefox,210.247.255.39,Rogersside,Disabled,23.31,Yes,Admin,0.83
+1f7af6a2-a4ea-425f-a173-47521ea679e7,U70854,2025-01-27 16:55:51,0,PC,Mac-Safari,21.34.206.189,Port Jimmy,Disabled,57.17,No,User,0.1
+5d4c64b1-4caa-46aa-b998-0786b65256a4,U38828,2025-02-07 09:52:18,1,Mobile,Mac-Safari,45.96.193.28,Robinborough,Enabled,90.53,Yes,User,0.11
+1cc20ba3-e0c7-49e9-8887-2a19544b4e20,U62701,2025-01-08 22:59:01,3,ATM,iOS-App,139.12.239.171,North Thomashaven,Disabled,14.34,Yes,Admin,0.96
+e285982c-e3b2-477e-a761-e889e9d3f448,U28869,2025-01-13 13:48:45,0,PC,Linux-Firefox,144.173.10.138,Heatherport,Disabled,24.7,Yes,Admin,0.89
+661ccf15-22ab-482f-bb41-eeedf9c8d8e0,U39368,2025-02-05 17:41:49,2,PC,Linux-Firefox,80.224.18.81,Manuelview,Disabled,18.62,Yes,Guest,0.17
+b242ee89-bd68-487f-92de-9bab557b5a8b,U75439,2025-01-12 02:05:26,0,ATM,iOS-App,105.39.160.57,New Lisaborough,Disabled,11.14,Yes,User,0.0
+97a6e09e-0735-41a3-9c3a-2fadd030c6ee,U51677,2025-01-12 02:49:23,1,POS,iOS-App,175.149.203.225,Carloschester,Enabled,18.23,No,Guest,0.21
+59a8c547-5d37-4f9b-b763-ff738639bd9e,U70394,2025-01-03 18:32:47,1,PC,Android-App,80.49.136.42,Lake Annaborough,Disabled,22.22,Yes,User,0.03
+d3fb3ff5-5418-4944-9557-52fea524efdc,U98345,2025-01-25 18:45:05,1,ATM,Mac-Safari,36.203.37.41,Port Carrieside,Disabled,28.02,Yes,Admin,0.95
+3cd707ad-b279-428c-b4be-dda465cd8e8e,U14966,2025-02-08 18:42:04,4,POS,Linux-Firefox,20.40.107.194,Manuelmouth,Disabled,20.6,Yes,Admin,1.0
+1201c95e-1892-4b1b-920c-a4c2ef3cb7c3,U55499,2025-02-12 00:45:06,3,Tablet,Windows-Chrome,33.7.32.196,East Ricardomouth,Disabled,28.61,Yes,Admin,0.87
+8f148663-4487-477c-87e4-402ad991b5fe,U75746,2025-01-04 05:29:11,3,PC,Android-App,16.39.246.194,East Ralphhaven,Disabled,21.11,Yes,Admin,0.83
+68a11f95-63c1-489b-862f-cd8841cb86cc,U38700,2025-01-20 02:42:07,3,ATM,Mac-Safari,134.103.240.225,West Michelle,Disabled,11.46,Yes,Guest,0.58
+9642475d-0910-47b2-8573-0b5bf0490979,U10894,2025-01-27 21:17:14,2,Mobile,Linux-Firefox,13.6.94.78,North Susanville,Disabled,3.53,Yes,User,0.78
+a140cf3d-0a55-4ed3-92b5-1e5d31d5bd36,U13787,2025-01-13 08:23:54,5,Tablet,iOS-App,215.41.54.38,North Keith,Disabled,16.16,Yes,Guest,0.8
+850f2b4c-3c4b-4f21-936d-b5e3af1d4b74,U79934,2025-01-06 16:51:59,0,ATM,Mac-Safari,110.140.161.79,Port Catherineshire,Disabled,5.18,Yes,Admin,0.99
+193217c1-b69d-4d5c-8b98-c887c442a4d7,U42174,2025-02-09 14:55:53,1,Tablet,Windows-Chrome,138.162.103.181,Reedland,Disabled,24.19,No,Guest,0.65
+554be773-47c5-4833-bff0-39f742c96ffa,U56562,2025-01-06 21:29:18,2,ATM,iOS-App,184.79.237.18,East Melissaland,Disabled,26.21,Yes,Admin,0.91
+b5e1d510-5f2c-4acc-a085-10048af43681,U21937,2025-01-08 08:18:23,2,Mobile,Android-App,74.200.61.224,North Brianville,Disabled,101.98,No,Guest,0.0
+db531749-bb3a-4df8-b3ff-e4fb4545a355,U72261,2025-01-21 07:51:11,4,POS,Android-App,144.87.86.36,New Morganmouth,Disabled,8.62,Yes,Admin,0.85
+088353b5-63f0-49fe-8919-90c57b710177,U47700,2025-01-12 21:05:33,1,PC,Mac-Safari,183.24.169.38,Michaelborough,Disabled,13.9,Yes,Admin,0.87
+df1bc7c1-5ea8-4eb5-b41a-83adacc8b405,U99145,2025-01-28 22:55:57,2,Mobile,Mac-Safari,51.255.56.204,East Juliefort,Disabled,19.93,Yes,Guest,0.29
+33b3f9d3-da5b-48e7-a89c-3cbed2f185f0,U37043,2025-01-13 02:30:51,2,PC,Mac-Safari,116.166.151.134,Lake Alejandro,Disabled,87.62,Yes,Guest,0.04
+fb7cd249-abe9-4047-b04f-8ef5367fa273,U10226,2025-01-18 07:48:29,3,POS,Linux-Firefox,41.7.31.118,Lake Jill,Disabled,13.6,Yes,User,0.46
+31d2478f-4d00-4f6e-9359-a18371dcbc2b,U18013,2025-01-04 06:34:41,2,PC,Windows-Chrome,193.226.254.57,Kellershire,Disabled,17.42,Yes,Admin,0.94
+632a9bc8-792d-4375-b8d9-58ad370707f1,U11526,2025-01-17 07:39:02,0,Mobile,Mac-Safari,63.187.34.202,Stephentown,Disabled,25.55,Yes,Admin,1.0
+12b15c33-6dcc-4b3f-a4e6-1d7889863e01,U34850,2025-01-10 06:01:34,1,ATM,iOS-App,104.129.205.205,Port Andrewmouth,Disabled,8.39,Yes,Admin,0.99
+0b1a3a9f-9bb7-4308-9a5e-5a601d3f26bc,U14813,2025-01-20 08:56:52,0,ATM,Windows-Chrome,211.24.132.180,Chrisbury,Disabled,20.83,Yes,User,0.08
+50d89b8b-7b3f-4a07-88d9-789e8244c005,U60953,2025-01-19 16:01:08,5,ATM,Android-App,217.174.179.194,Lake John,Disabled,9.76,Yes,Guest,0.78
+67493a25-7b0f-401a-85e6-bf1ed22b0785,U67796,2025-02-07 00:02:44,1,ATM,Linux-Firefox,11.128.8.84,North Donna,Disabled,16.35,Yes,Guest,0.17
+c7a03d4d-8ae6-4a87-b424-a49d3d98184c,U51150,2025-01-06 10:28:45,2,Tablet,Mac-Safari,96.172.95.80,New Ashley,Disabled,8.64,Yes,Admin,0.97
+522f1e0b-1eb4-4259-8b29-1d43494ace2f,U20059,2025-02-04 08:00:38,1,Mobile,Linux-Firefox,67.146.222.237,South Jonathan,Disabled,46.56,No,User,0.24
+40d1cf67-682d-4014-8268-fab7c17048a8,U52549,2025-01-12 02:50:59,0,ATM,Mac-Safari,95.70.49.145,Lake Tracy,Disabled,16.37,Yes,Admin,0.85
+e9bd51a9-d9c0-417c-b36a-41d2b44368b1,U45553,2025-02-04 02:04:59,1,Tablet,Android-App,62.116.31.158,East Christopher,Disabled,27.15,Yes,User,0.66
+dd626fe0-1dc0-431a-94a1-ea009b53a88f,U99095,2025-02-04 06:00:05,2,POS,Linux-Firefox,166.112.15.211,Garybury,Disabled,28.66,Yes,Admin,0.82
+4170a78d-70a6-465e-abfe-41d1faa112e4,U56745,2025-01-31 07:22:50,3,Mobile,Windows-Chrome,87.10.34.197,Deborahville,Disabled,12.44,Yes,Guest,0.22
+85df3e30-a369-4072-8751-10bbb564a47f,U90866,2025-01-09 03:42:16,2,ATM,Windows-Chrome,165.195.211.53,Bestview,Enabled,115.72,Yes,Guest,0.3
+e2ab8fcf-c9f0-4370-82cd-a6a290d782d9,U29040,2025-02-09 06:33:24,1,PC,iOS-App,187.149.241.61,West Emma,Disabled,20.77,Yes,Guest,0.08
+0337c9d3-ee88-4177-aa0e-019cba329aaf,U97539,2025-01-25 23:58:19,0,ATM,Android-App,1.255.34.229,North Ryan,Enabled,92.15,No,User,0.01
+960abaeb-506a-4488-ba22-e5342a8c3df1,U36048,2025-02-07 11:09:24,2,Tablet,iOS-App,53.137.32.76,South Todd,Enabled,110.13,Yes,Guest,0.02
+ce8e9fed-e780-4e5f-b6cf-695d68247d43,U12025,2025-01-31 21:20:55,3,PC,Windows-Chrome,89.95.83.125,South Adam,Disabled,3.78,Yes,Guest,0.32
+9ba96242-a524-497b-a769-b334a7b8bc70,U80234,2025-01-20 11:27:02,2,POS,Linux-Firefox,149.159.168.152,South Williamville,Disabled,15.42,Yes,Guest,0.6
+09e9d28a-84b7-41c9-8fc3-1021c020c92d,U23760,2025-01-13 03:18:56,0,Tablet,Windows-Chrome,101.214.88.246,New Joanne,Disabled,113.46,No,User,0.17
+3be95ea3-b67c-464e-9600-c5091012f006,U41549,2025-01-06 08:34:32,1,ATM,Android-App,48.54.102.82,Philiptown,Disabled,22.62,Yes,Admin,0.98
+4841b759-9cda-4c33-96f7-608b05d9f3bf,U98555,2025-01-02 08:09:11,1,POS,Linux-Firefox,164.10.124.120,Lake Robert,Disabled,13.37,Yes,Admin,0.96
+f04afd20-2f2d-4386-a31a-2a41dc8d959f,U43510,2025-02-08 19:08:11,3,Tablet,Windows-Chrome,62.236.229.225,Lake Cristinabury,Disabled,21.6,Yes,User,0.55
+3a4d4e4b-9600-4608-8806-7435ba1edd74,U99197,2025-02-04 10:35:57,4,PC,iOS-App,73.123.20.237,South Christina,Disabled,29.68,Yes,Guest,0.7
+739145f7-9e9d-4ea6-a3be-a12014f03e2c,U92298,2025-02-10 15:27:29,1,POS,Mac-Safari,153.251.91.98,Gibsonport,Disabled,3.58,Yes,Admin,0.83
+eda5d607-5851-475d-90af-67ab68d6cff3,U86840,2025-02-08 23:09:04,1,POS,iOS-App,53.213.197.134,Chanhaven,Disabled,7.06,Yes,Admin,0.98
+7d3eee71-a0d1-4a4c-a541-8eb90f875c8f,U84978,2025-02-11 14:30:49,1,ATM,Android-App,40.197.171.124,Schneiderhaven,Enabled,73.57,No,User,0.1
+b194adc9-37bd-408f-b0c7-29d6710cf060,U56730,2025-01-29 02:35:01,2,PC,Mac-Safari,107.133.131.202,Wareshire,Disabled,5.5,Yes,Admin,0.95
+29d2c087-a53e-4cb0-adb3-bafb6fd4074c,U46846,2025-02-01 04:14:04,2,Mobile,Windows-Chrome,204.7.208.216,Bowerston,Disabled,6.42,Yes,User,0.4
+515f92e7-7ad0-4844-98e5-4d9ac6d04941,U14597,2025-01-11 06:56:27,2,PC,Windows-Chrome,4.115.7.254,East Christopher,Disabled,15.84,No,User,0.06
+1e7282ea-375e-4bb5-8fb7-5e77567b9d88,U55359,2025-02-05 05:52:50,3,PC,iOS-App,94.202.148.17,New Valerie,Disabled,12.82,Yes,Guest,0.66
+c7ed835c-b905-47fd-ae24-12913f9b79ea,U26557,2025-01-23 19:30:35,3,ATM,Linux-Firefox,203.235.91.102,Russellside,Disabled,20.3,Yes,Admin,0.91
+a49531ec-6d0d-4f73-a03f-52a9a3fd95e9,U64867,2025-01-25 14:13:29,5,PC,Android-App,119.5.251.193,Isabelfurt,Disabled,28.0,Yes,Guest,0.75
+78cc4689-9ebb-4e73-a3c1-aad1c297415e,U58134,2025-01-15 18:35:56,0,Mobile,Linux-Firefox,165.234.100.155,West Ericfort,Enabled,31.21,Yes,User,0.35
+8698184e-a494-4629-823a-2c84730fb668,U32234,2025-01-17 05:27:32,1,ATM,Mac-Safari,91.192.34.76,Jimmyton,Disabled,14.04,Yes,Admin,0.94
+c5b89c5d-e1d9-45ce-8496-d24f310b4452,U15980,2025-01-28 07:14:20,0,ATM,Android-App,92.47.198.202,West Kristy,Enabled,15.32,No,Guest,0.15
+677ded6d-d678-4d09-92b4-2ead7ffc6b06,U66649,2025-01-03 06:46:32,2,PC,Windows-Chrome,13.82.128.98,Lake Daniel,Disabled,23.22,Yes,Guest,0.35
+3ffe59e4-9c09-4844-a4f1-9065037b7037,U95801,2025-01-01 07:04:50,0,Mobile,Android-App,116.98.4.153,Lake Kellytown,Disabled,1.98,Yes,Guest,0.23
+a3b0622b-5e83-4f1d-b937-6f8e066e4923,U97795,2025-01-16 03:42:37,1,ATM,Windows-Chrome,41.161.153.181,North Ryanland,Disabled,7.44,No,User,0.24
+27192129-1dd0-43db-9468-884a67f1c694,U52005,2025-01-04 06:53:43,3,ATM,Windows-Chrome,67.169.36.167,Lake Julieton,Disabled,27.54,Yes,Guest,0.09
+1d024bb0-f810-46ca-8723-05f11ecf0c05,U31208,2025-01-01 19:04:27,2,Mobile,Mac-Safari,92.170.241.57,North Katelynchester,Disabled,6.73,Yes,Admin,0.99
+57e22523-ad46-4d1e-8241-a79eb5b0f115,U72429,2025-01-06 00:41:14,2,ATM,Mac-Safari,91.96.35.156,East Hannahland,Disabled,1.86,Yes,User,0.73
+59ebcc04-dc59-4d28-b7c9-435b4a3d2d4e,U61613,2025-01-12 13:40:13,2,Tablet,Mac-Safari,144.14.179.167,Lake Lauren,Disabled,6.64,Yes,Guest,0.42
+431d53a2-c95e-46ac-a54b-5093562b9248,U62690,2025-01-02 04:56:57,1,Tablet,Mac-Safari,1.162.235.31,Tateborough,Disabled,26.38,Yes,Admin,0.93
+f555b86f-700b-4686-a1bc-dbb375d767ac,U12993,2025-01-21 01:34:00,3,ATM,Windows-Chrome,82.175.114.51,Gregorymouth,Disabled,16.19,Yes,Guest,0.62
+5668a37a-c4bc-4560-bbf5-4f1f8a029b8f,U16805,2025-02-10 16:33:45,3,ATM,iOS-App,161.96.146.213,Codyburgh,Disabled,8.15,Yes,User,0.46
+4aba1525-6d61-4400-b1b0-be578604e30a,U77501,2025-01-16 14:20:50,2,Tablet,Windows-Chrome,60.242.46.52,Port Frankchester,Disabled,15.23,Yes,Guest,0.43
+abd237ad-a38c-44ba-a006-80cb40ce66d8,U87222,2025-01-10 12:31:06,5,PC,iOS-App,57.244.156.131,West Dawn,Disabled,21.26,Yes,Guest,0.73
+76b5d504-19d5-4420-b2da-1f23baadc623,U85017,2025-01-01 08:42:13,5,POS,Linux-Firefox,217.124.37.153,Markport,Disabled,8.22,Yes,User,0.77
+bac84bd5-51d8-4155-a022-1b2a0737ab65,U64535,2025-01-12 14:43:56,0,ATM,Windows-Chrome,30.229.86.86,North William,Enabled,78.85,Yes,User,0.21
+b7821dec-8cb0-4024-8237-2589a3eda11d,U87105,2025-01-23 05:13:08,0,Tablet,Mac-Safari,126.196.228.232,Port Kathrynshire,Enabled,21.47,Yes,Guest,0.06
+e2cca312-3685-4aab-bb6a-95f9fab7cc18,U53309,2025-01-20 18:47:27,0,ATM,Linux-Firefox,168.86.128.9,Port Brian,Disabled,15.59,Yes,Admin,0.85
+ccbffd15-3cbd-4564-bfc7-e2274449a681,U67116,2025-01-15 15:43:17,5,POS,iOS-App,84.173.26.45,South Melissa,Disabled,28.63,Yes,User,0.63
+c251e9cb-5647-46dd-b02f-d01cacabcca2,U54023,2025-01-26 11:34:47,0,POS,iOS-App,201.242.164.235,Roberthaven,Disabled,16.79,Yes,Admin,0.84
+222fe589-1a05-4782-ab66-c70cdc4dd150,U81259,2025-01-13 07:07:06,2,Mobile,Windows-Chrome,37.173.255.175,East James,Disabled,37.4,No,User,0.25
+2a13a8ec-c843-453a-8a12-969c9143fcc1,U62810,2025-01-29 04:16:15,3,POS,Android-App,191.7.95.155,Port Aprilfort,Disabled,9.32,Yes,User,0.18
+d67bfec1-2f17-4cf6-8511-38a12188e19d,U69016,2025-01-09 16:35:22,0,PC,Mac-Safari,39.32.251.146,Katherineville,Enabled,72.89,Yes,User,0.42
+2d1fab1a-a99b-47d1-ac97-9d5417d4fed9,U65007,2025-02-07 23:43:01,3,Tablet,iOS-App,4.108.50.52,Charlesshire,Disabled,10.9,Yes,Admin,0.82
+f8812e85-70aa-4501-a414-2d3dbb61e654,U55131,2025-01-05 00:48:01,2,ATM,Android-App,124.89.22.41,Hollowayview,Disabled,4.61,Yes,Admin,0.92
+57133e8e-ca2a-4f42-8aae-2aa431918e03,U52668,2025-01-20 01:14:21,0,POS,iOS-App,196.201.242.57,East Emilyside,Enabled,39.66,Yes,Guest,0.08
+c04cb6c6-3062-4a7d-9a67-91bc2a7f28ef,U31213,2025-02-09 13:50:40,3,ATM,Android-App,3.94.243.140,Lake James,Disabled,1.08,Yes,Guest,0.05
+347bf1be-2a77-455e-b080-7af9a885bc75,U15348,2025-02-08 03:54:52,0,Tablet,Windows-Chrome,116.179.138.69,Williamsland,Disabled,70.7,No,Guest,0.22
+bb5ddf89-e9b9-488a-8b27-a27d22d76cc1,U30555,2025-01-29 11:59:31,1,ATM,Linux-Firefox,128.201.180.40,West Stephanie,Disabled,15.17,Yes,Guest,0.6
+7d17346a-d109-4c01-82c4-dd1c6bcf9eca,U66249,2025-01-18 10:48:48,3,PC,Linux-Firefox,122.22.104.225,Charlesfurt,Disabled,11.48,Yes,Admin,0.86
+c560fddb-7b0f-4522-babe-660548cd2b1b,U54669,2025-01-31 17:22:22,3,Mobile,Windows-Chrome,44.4.34.31,West Rachelburgh,Disabled,18.86,Yes,Admin,0.87
+b81b1e63-8417-4fd9-96d3-dfef66ea5baa,U54301,2025-01-08 00:31:37,2,Mobile,Mac-Safari,59.126.245.55,East Miranda,Disabled,2.96,Yes,Admin,0.9
+fb1290c8-8a76-48ba-8dfb-f1a7b30b3857,U50128,2025-01-08 02:18:35,3,POS,iOS-App,165.69.210.251,Justinborough,Disabled,4.66,Yes,Admin,0.92
+032a9145-5e64-4848-9421-d920f20446af,U41823,2025-01-22 02:48:17,2,Tablet,Mac-Safari,133.6.244.235,South Jillian,Disabled,54.28,Yes,User,0.24
+3b8e0168-b8cb-461b-bb00-37ed00908c56,U58316,2025-01-18 00:12:50,0,Tablet,Android-App,201.126.172.47,Jasmineborough,Disabled,3.84,Yes,Guest,0.11
+8e41637f-853d-4ae8-8f7e-0ee727bec936,U54152,2025-01-16 15:06:30,0,Mobile,Android-App,221.171.195.240,Dustinview,Disabled,13.19,Yes,Admin,0.9
+715069da-ee7b-40a6-9937-590b127eafc7,U87308,2025-01-21 18:02:29,1,ATM,iOS-App,50.107.199.100,Lake Toddton,Disabled,22.76,Yes,User,0.57
+6bd0c19a-e444-42dc-a97f-a0774fdb0ef1,U67909,2025-02-10 08:36:55,0,ATM,Linux-Firefox,208.20.241.6,Allisonhaven,Enabled,15.49,No,User,0.01
+b25ba07a-0048-4709-b9b5-d391047b6fb7,U73926,2025-01-29 02:13:47,5,POS,Linux-Firefox,133.130.200.168,South Paul,Disabled,11.08,Yes,Admin,0.9
+6b1f1a75-d6c7-441e-8835-b78d4f1e452e,U26367,2025-02-09 06:23:44,0,Tablet,Mac-Safari,71.228.159.223,Barnesborough,Disabled,16.58,No,Guest,0.52
+98d73ae4-e9e9-43c8-9405-b983e09aa390,U80907,2025-01-25 02:29:17,5,Mobile,Mac-Safari,153.30.42.67,Chadburgh,Disabled,2.07,Yes,Admin,0.95
+15ac5b9c-0592-42de-9762-90c9de721f74,U64184,2025-01-31 13:40:39,2,POS,iOS-App,203.225.67.238,North Katie,Disabled,3.54,Yes,Admin,0.89
+5b7b42d0-c9ce-4bb0-af08-b81682bd04c0,U83983,2025-02-03 02:13:37,2,Tablet,Linux-Firefox,39.229.103.205,Christianhaven,Disabled,2.14,Yes,User,0.5
+353ef1c8-8178-4386-9e7b-f6595de995b6,U49371,2025-02-08 10:28:24,5,POS,iOS-App,3.5.147.237,East Linda,Disabled,3.02,Yes,Admin,0.92
+69052555-c4f2-4ad7-b69d-2dd4d01f1375,U88836,2025-01-19 22:04:05,4,ATM,Mac-Safari,16.8.195.165,Carrollchester,Disabled,9.76,Yes,Guest,0.79
+c91d9fd7-de95-45ad-bdde-6f166c8d567d,U52406,2025-01-25 01:25:10,4,Mobile,Mac-Safari,14.100.219.250,Port Thomas,Disabled,25.06,Yes,User,0.75
+33a1a04e-4c4c-46cc-9ee9-cb792b67aa16,U33227,2025-01-23 18:55:30,3,ATM,Windows-Chrome,45.38.147.103,Port Stevenside,Disabled,28.67,Yes,Admin,0.86
+070fc172-9655-4052-83ef-af7be15fc9d0,U35702,2025-01-03 23:37:07,0,POS,Android-App,134.133.203.152,North Joseph,Disabled,8.28,Yes,Admin,0.89
+377799f1-5ee8-4550-b0a3-d2f789a02f2b,U17621,2025-02-07 13:23:38,4,Tablet,Linux-Firefox,175.174.122.161,Kristenberg,Disabled,6.45,Yes,Admin,0.85
+6e77d1f8-fc61-44d9-a780-c9deb593d482,U47711,2025-01-20 10:51:27,1,Tablet,Linux-Firefox,86.247.149.197,Justinshire,Disabled,116.95,No,User,0.01
+8154894c-3b72-4a30-bf5c-04261ac1dcc2,U70654,2025-01-01 13:11:45,0,PC,iOS-App,120.126.80.150,West Melvinborough,Disabled,1.26,Yes,User,0.54
+19916500-1d43-4962-9cac-1d7b0ab24719,U24896,2025-02-01 08:09:07,2,ATM,iOS-App,185.54.132.166,Port Sara,Disabled,18.49,Yes,Guest,0.4
+3f73df0b-6592-4eee-8b2e-dfaf7bd73f31,U41994,2025-02-08 16:10:07,2,POS,Android-App,106.226.155.251,Port Jamieshire,Enabled,12.78,Yes,Guest,0.03
+1031e6b4-8616-4c07-9c3b-8d5c22f1dd8d,U36172,2025-01-16 08:23:55,1,Tablet,Android-App,79.58.199.23,Simpsonhaven,Disabled,11.59,Yes,Guest,0.65
+c868b398-150d-498f-98f0-82e1d951268c,U12403,2025-01-30 23:42:49,2,ATM,iOS-App,184.70.246.134,North Gene,Disabled,4.64,No,User,0.52
+7e08e509-c7de-44a0-8fb5-1e6a989a94ad,U58718,2025-01-20 13:31:48,3,ATM,Linux-Firefox,121.0.206.90,Sanchezport,Disabled,20.68,Yes,Guest,0.39
+a556c739-0318-4d8c-aec1-e0319458dd1f,U27163,2025-01-28 00:23:54,1,PC,iOS-App,221.34.208.240,Adamsfurt,Disabled,5.78,Yes,Guest,0.35
+1a858a2f-25ed-431e-9b59-5081e7d904ed,U56170,2025-02-11 22:47:30,0,POS,Linux-Firefox,198.6.81.195,Port Ashleyborough,Enabled,91.17,No,Guest,0.17
+2555ef15-7cc4-4592-997a-5380efe40426,U19909,2025-01-06 08:51:14,4,Tablet,iOS-App,34.129.68.87,North Nicoleshire,Disabled,13.35,Yes,Admin,1.0
+25db7dfc-8775-432f-bf81-adea85a7dcf1,U36982,2025-01-07 00:25:57,2,POS,Windows-Chrome,39.193.18.31,New Jade,Disabled,24.33,Yes,Admin,0.91
+2ad737dc-a7fb-4dca-b65b-d551613620a0,U48185,2025-01-14 17:57:37,0,Tablet,Mac-Safari,204.211.16.153,South Jasonview,Disabled,23.85,Yes,User,0.48
+db399755-e5f0-44f0-8fec-c48930b74aa3,U36249,2025-01-17 13:35:54,1,Tablet,Linux-Firefox,104.234.156.15,Youngberg,Disabled,21.96,Yes,Guest,0.37
+ce859b7d-b2ed-4674-ad7c-c001120ae779,U30467,2025-01-29 16:16:32,1,POS,Android-App,158.15.54.195,Lake Robertborough,Disabled,17.61,Yes,Admin,0.94
+9cd7bdd6-76a0-4935-8308-54b3854196d3,U91260,2025-02-02 06:58:40,0,Mobile,Android-App,91.226.110.102,West Shawn,Disabled,24.09,No,User,0.19
+ac343969-2be4-413a-8018-6e33c58d4baa,U95496,2025-02-05 07:32:35,1,Tablet,iOS-App,35.215.219.132,New Nancy,Disabled,28.44,Yes,Admin,0.97
+8cd3c901-3744-4801-8953-0e476c7378e3,U76996,2025-01-19 16:37:23,3,Tablet,iOS-App,88.199.186.255,Duncanview,Disabled,18.19,Yes,Guest,0.21
+5642e692-05f5-4211-9867-89e8ea5fb72a,U55477,2025-01-10 10:59:26,1,PC,Windows-Chrome,183.66.196.195,Jensenmouth,Enabled,110.61,Yes,Guest,0.19
+f6217ad3-16b0-4c3a-af2a-965460253ddd,U33227,2025-01-13 20:27:20,1,PC,Linux-Firefox,17.15.219.211,Harrishaven,Disabled,19.08,Yes,User,0.48
+6eb1f0b5-6b26-48b4-a380-d9cb3f04b01e,U15532,2025-01-08 15:39:08,5,Mobile,Linux-Firefox,196.197.149.54,Davidfort,Disabled,22.49,Yes,Admin,0.93
+be495e47-dfa6-48a9-9c2e-c9d27fd21d05,U78973,2025-01-12 23:20:38,5,ATM,Mac-Safari,113.108.145.31,Princemouth,Disabled,6.39,Yes,Admin,0.84
+615614cd-bf2d-4ac3-b38a-a7d71c793326,U29907,2025-01-09 19:01:44,0,Tablet,iOS-App,175.149.60.7,New Brandon,Disabled,13.25,Yes,Guest,0.08
+db493526-0228-40d7-a6ed-5291479e2f8f,U91153,2025-02-04 06:55:03,4,PC,Android-App,9.123.152.251,East Stephenton,Disabled,10.1,Yes,Guest,0.79
+fd307c81-8b7a-41d9-b329-846fd2121624,U31830,2025-02-07 02:46:04,2,PC,Linux-Firefox,114.105.69.163,South Bethany,Disabled,75.16,Yes,User,0.11
+fc9c4735-fdc1-458b-b324-83bd23403157,U55050,2025-02-05 21:27:48,4,ATM,Windows-Chrome,144.126.131.232,Conleyland,Disabled,6.18,Yes,Admin,0.86
+81d85e61-bdeb-4448-b73f-579a2bbf97dc,U16453,2025-02-10 08:21:11,1,POS,Windows-Chrome,217.199.240.98,Bradleybury,Disabled,14.22,Yes,User,0.0
+b4d61033-cb05-4018-b2b8-d69d7e329c8e,U87122,2025-01-15 15:22:34,5,Tablet,Android-App,18.255.132.174,Port Tammietown,Disabled,5.74,Yes,Admin,0.82
+24bedf50-0dfc-4e32-b69e-94c16a55b76f,U68694,2025-02-02 08:39:39,4,Tablet,Android-App,13.233.206.158,Millerbury,Disabled,13.83,Yes,Admin,0.97
+7926338c-5be9-4094-aa77-b4e8ce9a30e2,U33247,2025-01-07 20:30:52,0,Mobile,iOS-App,85.81.74.183,Ramirezton,Disabled,10.44,Yes,Admin,0.95
+7352c257-24f3-496d-8488-55ababb5278f,U53371,2025-01-22 00:06:39,2,POS,Linux-Firefox,205.136.172.26,Ashleymouth,Disabled,82.29,No,User,0.19
+254b44b3-670b-446d-b912-36e2f04ef1ca,U28772,2025-01-07 08:04:15,2,Tablet,Windows-Chrome,107.74.40.144,New Austin,Disabled,6.85,Yes,User,0.24
+6ada847a-ff15-43a8-9f0b-1bc3d70b78c5,U65472,2025-01-17 04:54:49,0,POS,Mac-Safari,117.174.246.125,North Josephville,Enabled,115.09,Yes,User,0.02
+1045bb1b-c360-423d-9134-a9cc6338efb2,U17838,2025-01-15 08:02:55,2,ATM,Android-App,201.19.92.66,Lawrenceport,Disabled,17.92,Yes,Guest,0.1
+1fbbc2bf-5011-4bce-9516-8b119c4ffc07,U49560,2025-02-06 04:48:06,0,POS,Linux-Firefox,39.214.129.63,Hernandezton,Disabled,19.29,Yes,Admin,0.89
+d694e2c1-0b0d-4c3a-a6a0-99a0919eaea8,U32065,2025-01-21 14:46:00,4,PC,Mac-Safari,143.241.51.144,East Phillipstad,Disabled,27.85,Yes,Guest,0.79
+92ecfea0-90f8-4146-a209-55202e37d7d1,U84536,2025-01-18 14:31:51,5,POS,Mac-Safari,9.143.122.121,Stevenfurt,Disabled,14.5,Yes,Admin,0.92
+4aa9e029-3b2f-4a30-829d-c3100e5a0acf,U22188,2025-02-07 17:23:02,5,Mobile,Android-App,82.18.111.150,Mariaside,Disabled,10.07,Yes,Guest,0.77
+09f1eadb-d3a2-49d8-b628-ea0f6ba63a29,U75629,2025-01-15 11:14:11,5,ATM,Windows-Chrome,46.43.89.51,West Katrinaborough,Disabled,26.84,Yes,Admin,0.97
+635790d5-7f40-4be5-9dc1-04487b4b8f69,U52977,2025-02-06 14:42:57,1,Mobile,Linux-Firefox,208.140.204.32,Lake Johnny,Enabled,36.88,Yes,User,0.12
+84eac897-022d-4fbe-8968-5b460bdffbff,U89217,2025-01-11 04:39:51,4,Mobile,Linux-Firefox,205.254.26.67,Cameronfurt,Disabled,28.46,Yes,Guest,0.73
+90c0efec-ebb8-45e0-814f-2475c9563a7f,U63978,2025-01-13 00:12:45,2,ATM,iOS-App,86.25.93.200,West Gregorymouth,Disabled,61.47,No,Guest,0.01
+b1984950-ae63-461a-bbc8-0a9b6c16ab8b,U86000,2025-02-02 04:51:36,4,PC,Android-App,185.101.56.129,Martinezview,Disabled,10.27,Yes,Guest,0.71
+931916f2-59fd-4892-8c8c-2d48560df512,U29499,2025-01-03 03:19:37,3,PC,Mac-Safari,179.10.173.119,Coreyton,Disabled,27.22,Yes,Admin,0.87
+7d4cdd2c-065a-4dd8-a9a4-61d866243177,U71848,2025-01-03 21:06:59,0,PC,Mac-Safari,64.190.232.212,Lake Johnburgh,Enabled,79.58,Yes,User,0.04
+798ad09c-fc0e-4d41-8647-e33fd8ff46cf,U93608,2025-02-01 15:54:21,0,Tablet,Windows-Chrome,174.37.131.88,Carterfurt,Disabled,12.29,No,Guest,0.16
+d93cf452-41da-4bb0-8e48-32f0bffa3d6d,U29435,2025-01-06 21:54:19,5,POS,Linux-Firefox,84.223.106.150,Toddshire,Disabled,2.74,Yes,Admin,0.86
+f442f802-4bee-45bd-884a-d3ed3f01eb27,U61971,2025-02-08 01:34:05,5,Mobile,Linux-Firefox,62.109.148.114,Lake Scott,Disabled,5.43,Yes,Guest,0.79
+c08874bd-7e6f-4443-9767-0b830a28e876,U58631,2025-01-03 12:47:10,1,Tablet,Mac-Safari,23.147.37.198,South Sarahbury,Disabled,17.15,Yes,User,0.17
+82b6b7f3-7830-4d22-a28c-d303bb0e1c9d,U50535,2025-01-20 20:48:44,1,ATM,Windows-Chrome,179.185.39.216,Medinaport,Disabled,88.25,Yes,User,0.07
+79492fb6-96f4-4d71-ae52-2467ae09d459,U95429,2025-01-25 13:22:10,3,ATM,iOS-App,181.246.159.106,West Michaelville,Disabled,4.48,Yes,Admin,0.98
+a960f739-99cf-4981-9900-e3e15ab58cf9,U66243,2025-02-02 17:42:45,2,Mobile,Mac-Safari,6.141.49.209,Ramseyburgh,Disabled,50.16,Yes,User,0.11
+9b39cc35-86c3-46dc-808b-89450ae5d947,U53588,2025-01-19 15:25:19,0,ATM,Windows-Chrome,119.63.217.44,Herreraborough,Disabled,29.72,Yes,User,0.01
+28f3813f-f873-4468-bec3-123db1894597,U77515,2025-01-04 20:42:46,4,POS,Linux-Firefox,194.166.255.163,Morrischester,Disabled,21.52,Yes,Guest,0.76
+d7c2bfbe-2810-46ac-8842-ee4ea19474a7,U62840,2025-02-01 14:33:52,2,ATM,Mac-Safari,44.98.192.137,Beckerland,Enabled,25.2,No,User,0.16
+a341eb72-e25d-478f-9ea3-01adbff3c823,U32494,2025-01-10 01:23:50,0,ATM,Android-App,159.124.67.173,West John,Disabled,7.57,Yes,Admin,0.84
+7e3d2bbc-ee5a-4f53-8016-463ab67c9b20,U21377,2025-01-30 06:38:18,1,PC,iOS-App,56.107.213.100,South Karenport,Disabled,56.29,No,User,0.18
+9c560c2e-479e-4b52-990c-fbc4cb8957aa,U59546,2025-02-02 22:34:25,1,Mobile,Android-App,30.197.21.200,Lauriestad,Disabled,24.67,Yes,Admin,0.95
+647a06e6-658f-454e-9940-07d85f787257,U26843,2025-02-10 16:10:51,4,POS,Mac-Safari,150.194.127.110,Turnerhaven,Disabled,13.28,Yes,User,0.73
+eee53160-92b3-46ee-8cf0-f9c589cf5f2f,U16587,2025-02-03 17:24:36,0,Tablet,Mac-Safari,15.222.161.222,North Alexanderton,Disabled,29.0,Yes,Guest,0.22
+76ee2be6-f693-46c0-9d0f-dbc00c73452f,U55027,2025-01-31 10:16:28,4,POS,iOS-App,203.235.212.249,West Victorberg,Disabled,21.38,No,Guest,0.52
+01be4b64-caba-450e-9415-7ee3bd4b6cbd,U76993,2025-01-28 13:43:36,2,ATM,Mac-Safari,46.27.124.41,South Saraborough,Disabled,10.87,Yes,Guest,0.68
+d8cf2aa7-753b-4458-b852-eeee150e7cdc,U16704,2025-02-09 21:22:20,0,Mobile,Android-App,178.158.192.65,West Sylvia,Disabled,13.73,Yes,Guest,0.78
+b4bb41ee-c444-4e5d-a613-1f995861a1b6,U27331,2025-01-17 11:58:19,0,PC,Android-App,35.128.144.55,Burnsberg,Disabled,17.06,No,User,0.07
+43c58c80-925c-4e27-8c38-d2f3f6b5b5d4,U29830,2025-01-11 08:15:20,1,ATM,Mac-Safari,14.77.185.63,New Rebeccafort,Disabled,12.18,Yes,Guest,0.03
+f9aeec0a-757f-4dcb-a410-17fc969ff0cd,U84776,2025-01-06 06:04:12,0,PC,iOS-App,107.179.189.49,Sabrinashire,Disabled,29.49,Yes,Admin,0.9
+cc5265ee-c02b-44ce-9ff2-beca6d8c933f,U37083,2025-02-04 00:44:48,1,ATM,Windows-Chrome,144.179.138.168,Nicoleburgh,Disabled,3.81,Yes,Guest,0.66
+bdf424d2-b3aa-4cdb-bbf1-73235c4131c8,U98899,2025-01-13 03:31:11,1,POS,Linux-Firefox,89.148.15.47,Brandonborough,Disabled,42.75,Yes,User,0.33
+ddfc8425-2671-4a04-ad47-7940b8d4d48e,U26301,2025-01-17 00:51:03,1,POS,Windows-Chrome,94.56.201.186,East Kevinberg,Disabled,5.65,Yes,Admin,0.95
+7e716587-f08d-41b9-b03d-c431872cd966,U79746,2025-01-10 10:56:07,5,Mobile,Mac-Safari,163.124.80.116,New Brendatown,Disabled,19.68,Yes,Guest,0.8
+b5238fd0-bea1-476c-baae-e43be591fc0f,U76751,2025-01-04 15:04:54,4,POS,Android-App,161.124.59.192,West Joshuafort,Disabled,3.5,Yes,User,0.72
+6220b2cd-dbc2-4bed-9567-e63a078cb770,U91077,2025-01-30 19:46:26,2,ATM,Android-App,5.167.90.198,East Darylfort,Disabled,28.33,No,User,0.13
+19333a58-528f-4473-b149-92956db08499,U61089,2025-01-03 23:52:14,2,Mobile,Linux-Firefox,165.170.39.185,North Leslietown,Disabled,27.56,Yes,Admin,0.83
+a4cc9c6b-324e-4da3-9fce-cac516a49e07,U53650,2025-01-09 22:44:39,1,POS,Linux-Firefox,81.127.20.146,South Josechester,Disabled,9.64,Yes,Guest,0.74
+8e241e0a-10f9-4af8-8960-67399d412fb7,U29203,2025-01-05 12:08:27,4,ATM,iOS-App,88.9.58.116,North Dennis,Disabled,21.75,Yes,Admin,0.94
+fca35dc2-7c20-4adb-9a21-b21221d927f3,U47570,2025-01-20 09:35:08,0,Tablet,iOS-App,99.34.138.17,New Tylerfurt,Disabled,64.45,No,Guest,0.34
+d4080e31-3b3c-4523-8fd3-4d8bb1e5b43b,U84722,2025-02-03 12:38:41,5,PC,Linux-Firefox,69.43.248.219,Maryland,Disabled,20.02,Yes,User,0.63
+ee5f4a38-bf9a-4df9-9cfe-d96908aa286c,U17750,2025-01-05 04:44:53,0,Mobile,Linux-Firefox,175.133.226.78,Paceshire,Disabled,7.57,Yes,Admin,0.98
+01bb8d86-397d-478f-b998-2cd9de47f114,U18286,2025-01-19 16:31:50,2,ATM,Mac-Safari,42.178.253.190,South Kimfurt,Disabled,13.65,Yes,Admin,0.93
+f179b1c1-a8aa-40b3-a7ea-e04c1c66ebb4,U65955,2025-01-27 13:11:01,3,Tablet,Linux-Firefox,119.98.132.246,East Davidfort,Disabled,9.49,Yes,Admin,0.94
+adc87842-6582-4431-9b74-518d1034d78e,U79895,2025-01-19 20:54:39,1,Tablet,Android-App,191.192.70.167,Sandraborough,Enabled,40.41,No,User,0.14
+24b1eca8-a697-408c-ba4d-d2f245609eba,U54060,2025-01-28 05:22:27,2,PC,Windows-Chrome,169.165.246.108,West Nicholas,Disabled,102.3,No,User,0.03
+3eb8f218-109c-465e-8623-d150653522e1,U16613,2025-01-31 01:55:26,2,ATM,iOS-App,153.248.86.226,Aprilside,Disabled,14.37,No,User,0.41
+920ca887-4ac9-43c0-8d03-89a2dffde9dd,U44725,2025-02-04 01:28:21,2,POS,Windows-Chrome,115.211.181.19,South Paul,Disabled,4.4,Yes,Admin,0.97
+ac949c3c-d7a3-4290-9659-2fe17b5417f4,U20701,2025-01-08 00:52:39,1,ATM,Android-App,30.215.89.45,West Laurenburgh,Disabled,23.75,Yes,Admin,0.85
+0f0ecf65-ca70-414f-b803-57f34690a17b,U36605,2025-02-02 11:52:01,1,PC,Windows-Chrome,19.51.55.122,West Carrieville,Disabled,1.42,Yes,Guest,0.2
+287d2d4e-d43c-414c-b7cf-50480687b0a8,U40467,2025-02-02 08:12:56,2,PC,Windows-Chrome,209.21.153.59,Davidview,Disabled,11.38,Yes,Guest,0.5
+feab5fad-b60c-434b-97f0-5d38c6cec391,U56360,2025-01-11 08:40:25,4,ATM,Mac-Safari,167.183.180.178,Kellystad,Disabled,1.77,Yes,Admin,0.91
+5f7af233-002a-42cb-9158-776d85cb7d68,U11531,2025-01-17 01:35:08,1,Tablet,Windows-Chrome,193.111.140.183,Whiteheadshire,Enabled,82.18,Yes,Guest,0.03
+588256a9-c587-4c86-b532-c7ff1a8133e1,U15010,2025-01-15 18:11:02,0,Tablet,Linux-Firefox,63.47.195.60,Port Danielhaven,Disabled,21.73,Yes,Admin,0.91
+ea6ddca3-e900-492b-a699-2d5cae8c0548,U11263,2025-01-14 05:24:42,1,Tablet,Linux-Firefox,23.43.36.44,Meltonport,Disabled,29.92,Yes,Admin,0.94
+0c468cff-061d-4ae4-b140-0a9f07678300,U77082,2025-01-26 18:27:46,4,ATM,Android-App,38.18.86.25,West Lisashire,Disabled,27.23,Yes,User,0.8
+046a5d31-4ec7-4ce1-b37e-0a547d44a7e6,U67172,2025-02-02 22:43:48,2,Tablet,Mac-Safari,214.80.255.159,South Kellybury,Disabled,96.85,Yes,User,0.01
+9682664b-f289-4537-b684-7fdf6f008340,U32188,2025-01-21 18:24:00,5,Mobile,Windows-Chrome,22.139.12.148,Richardside,Disabled,20.09,Yes,User,0.54
+f5e50025-cccd-492d-8522-cffdde2f9f82,U23258,2025-01-13 01:53:55,5,Mobile,Windows-Chrome,145.118.188.239,South Stephenmouth,Disabled,22.36,Yes,Admin,0.84
+b702b75b-37aa-4756-a399-778a49237be5,U45947,2025-01-04 06:26:51,4,ATM,Android-App,222.13.179.33,Lake Kelseyberg,Disabled,4.6,Yes,User,0.7
+b0cfe429-291b-41a0-9e4b-c768371f763f,U61066,2025-02-11 18:03:11,4,Mobile,Windows-Chrome,14.195.197.134,Lake Feliciastad,Disabled,14.27,Yes,Admin,0.92
+0df85bce-4d07-46f3-9b8a-d386e167c723,U21279,2025-01-04 08:10:10,0,PC,iOS-App,28.38.101.203,Port Danielfurt,Enabled,34.04,No,User,0.0
+3a26adcb-bad3-4cf8-92f2-4b32c3225350,U71108,2025-02-01 18:29:10,4,PC,Linux-Firefox,75.167.106.170,Randychester,Disabled,29.06,Yes,Guest,0.79
+643c9a25-9c2e-4206-b370-dcfeaf882e9d,U99343,2025-01-01 13:09:26,1,ATM,iOS-App,60.88.112.113,Thompsonbury,Disabled,11.04,Yes,Admin,0.9
+ce5a379a-d543-4700-af45-c7c45ece6b7f,U23753,2025-01-30 01:25:08,2,Tablet,Linux-Firefox,192.59.81.40,Wilsonland,Disabled,113.52,No,User,0.07
+c5c4571e-c0f3-4890-949e-f6a9fb54a0a0,U80832,2025-02-12 07:25:37,1,Tablet,Android-App,23.82.96.227,Lopezside,Disabled,42.68,No,Guest,0.06
+32c145fc-3fd9-4743-b779-5f2c41fa3027,U93431,2025-02-02 00:11:24,2,POS,Mac-Safari,158.171.167.44,Parkerfurt,Disabled,7.89,Yes,Admin,0.95
+f68e5135-98fd-41b2-8b5e-0410fe6dff84,U75583,2025-01-09 03:14:09,0,Mobile,Mac-Safari,121.147.77.126,Port James,Disabled,20.07,Yes,Admin,0.9
+ea77b840-deda-48c6-9389-610a2840efc3,U38084,2025-01-08 07:11:15,4,POS,Windows-Chrome,192.57.101.62,Teresaville,Disabled,24.24,Yes,Admin,0.91
+6b8eb012-c278-43d6-9ea1-8d75dd4ad7cc,U42468,2025-01-26 11:11:44,3,POS,Linux-Firefox,64.247.53.214,New Kenneth,Disabled,18.43,Yes,Guest,0.69
+3e2db797-5fa5-4837-910d-e18380813ecd,U27744,2025-02-10 15:19:06,1,Mobile,Android-App,12.109.116.101,Port Teresaland,Enabled,14.76,No,Guest,0.08
+8ea9f6ac-0f2f-4387-8b88-31f30af6ec4c,U32645,2025-01-20 06:42:11,4,POS,Linux-Firefox,93.55.112.62,New Jonathon,Disabled,8.94,Yes,Guest,0.6
+e1336932-05b8-4738-a8e6-1be60365f867,U75081,2025-01-13 08:47:25,2,PC,Windows-Chrome,217.114.227.2,Christinehaven,Disabled,6.2,Yes,User,0.08
+d52b1659-ce06-4e17-a16e-2f7cb560dbca,U18878,2025-01-19 20:26:28,3,Tablet,Mac-Safari,193.133.116.125,Yangberg,Disabled,18.16,Yes,Admin,0.88
+a40ffe28-24b7-459f-b98e-ecb603f9e579,U26973,2025-01-21 13:14:15,1,POS,Linux-Firefox,189.11.207.86,West Bethport,Enabled,42.26,No,Guest,0.08
+b7f747e0-89aa-414d-a530-e361830fdbcc,U67950,2025-01-03 10:48:26,2,Mobile,iOS-App,159.135.223.3,East Leslie,Disabled,26.93,No,User,0.16
+758301d5-2283-4fbb-bffb-6bd617ae14c7,U96278,2025-01-30 16:34:38,0,Tablet,Windows-Chrome,83.237.8.66,West Alyssa,Disabled,25.53,No,User,0.4
+2c3a64a3-737e-4d12-8d89-4ed13691660f,U89451,2025-01-25 04:47:23,2,POS,iOS-App,15.38.76.167,Port Meagan,Disabled,5.99,Yes,Admin,0.96
+fbfca662-fda3-4965-8522-469ae5c3c44a,U96456,2025-01-12 05:22:21,1,PC,Mac-Safari,164.29.128.158,Jenniferstad,Disabled,25.97,Yes,Admin,0.85
+51f969ba-b0a6-4d25-92bb-db8702486bf5,U55141,2025-02-03 17:25:43,1,Tablet,Windows-Chrome,171.163.174.177,Susanland,Disabled,6.06,Yes,User,0.2
+d9422cde-2c0d-46b2-b04a-a8b133a39e3a,U32010,2025-01-24 19:58:29,2,Tablet,Mac-Safari,22.113.251.207,South Amberburgh,Enabled,84.81,Yes,Guest,0.18
+69f270bd-d355-4a72-a374-67e416206205,U69736,2025-02-12 00:14:10,2,PC,Linux-Firefox,1.83.188.87,Anthonyhaven,Disabled,39.68,Yes,Guest,0.05
+50df893b-8d22-454d-9f8f-f9b2d8f355cd,U13158,2025-01-13 16:49:52,3,Tablet,Windows-Chrome,184.48.242.122,Moorefurt,Disabled,19.0,Yes,Admin,0.86
+c1f578d5-6411-429f-a13d-e48d3d09df98,U20677,2025-01-19 07:35:10,1,ATM,Linux-Firefox,4.47.35.205,North Patrick,Disabled,2.56,Yes,User,0.3
+80094a35-530f-49ca-ad0d-8c7ab698f703,U56775,2025-01-03 10:39:36,4,Mobile,Android-App,87.138.112.150,Ericaport,Disabled,15.07,Yes,Admin,0.84
+a54ecfbd-6d06-4e1f-a7ac-28c40b214d13,U99996,2025-02-05 00:45:21,0,POS,Android-App,50.90.204.246,Christinaburgh,Disabled,24.52,Yes,Admin,0.99
+801f88b0-5eb6-43d9-b9ad-3e4a8725f06c,U87523,2025-02-11 01:39:45,4,PC,Mac-Safari,152.154.86.7,Port Gloriabury,Disabled,22.34,Yes,Admin,0.95
+434dc8b0-203a-4660-9b5e-29663e5761c7,U92391,2025-01-08 21:29:00,2,Mobile,iOS-App,56.171.80.167,North Lauraport,Disabled,19.41,Yes,Admin,0.92
+8b92d470-133e-44b0-9ff7-daf2506ee18d,U75767,2025-01-06 02:08:44,4,Mobile,Windows-Chrome,212.61.120.84,Woodview,Disabled,3.02,Yes,Admin,0.81
+31ec1ce8-2865-4eae-a03b-15fb0939bd44,U68306,2025-01-25 22:10:19,2,ATM,Android-App,25.167.56.132,Stephenview,Disabled,86.09,No,Guest,0.32
+0c4ae369-f93a-42af-bd48-88ef2e2866cc,U28739,2025-02-08 02:54:45,4,Mobile,Linux-Firefox,81.33.76.171,Alvarezshire,Disabled,10.78,Yes,Guest,0.77
+5a6e939c-2b32-4709-a2b4-c77dc3d9d880,U36479,2025-01-06 01:10:02,1,Tablet,iOS-App,57.160.153.248,Figueroaland,Disabled,24.4,Yes,Admin,0.95
+92d22f57-2241-4d29-ae2c-35d163351775,U77414,2025-02-02 23:27:08,2,Mobile,Windows-Chrome,117.60.5.98,West Robertville,Disabled,45.08,Yes,Guest,0.02
+735cd287-5cf0-42dc-b64c-a9716ff99ba0,U10778,2025-02-10 09:39:09,1,ATM,Linux-Firefox,1.143.234.187,Lake Nancy,Disabled,5.31,Yes,Guest,0.22
+2f94ce81-94e4-48ab-b318-0251085b1359,U71582,2025-01-06 23:39:24,0,Tablet,iOS-App,37.93.123.155,New Benjamin,Disabled,109.13,No,Guest,0.12
+39aee520-a434-40f3-9e62-2e20803b0a08,U99953,2025-02-01 20:55:58,0,Mobile,iOS-App,67.101.168.59,Patriciatown,Disabled,1.47,Yes,Admin,0.95
+d8eddaea-5531-47e6-a677-8c21987e05b2,U24409,2025-01-26 23:16:18,1,Mobile,Linux-Firefox,155.116.179.200,Pachecoton,Enabled,68.07,No,Guest,0.02
+09c61f1d-85d4-4ed3-b3ed-24213e03b19b,U59460,2025-02-04 06:22:36,5,ATM,Linux-Firefox,176.203.20.65,East Donna,Disabled,21.96,Yes,Admin,0.82
+895595a4-85f6-4bab-b4dc-1c70d8f832db,U25784,2025-01-16 17:00:33,0,PC,Android-App,67.139.187.195,West Frankfurt,Enabled,106.32,Yes,User,0.07
+96ac58ac-ea30-4a44-b012-ed4b0fe8b0db,U64010,2025-01-16 07:41:27,4,POS,Mac-Safari,185.132.114.213,Callahanland,Disabled,17.76,Yes,Admin,1.0
+a6c1c862-8f69-4209-8a8a-218291f20ec8,U49056,2025-02-02 13:46:19,3,Mobile,Android-App,141.54.96.136,Abigailview,Disabled,8.07,Yes,Admin,0.88
+ef89f025-f093-4a75-9ec0-21ccfad7dcb6,U31797,2025-01-27 07:44:23,4,ATM,Linux-Firefox,179.40.45.238,South Olivia,Disabled,27.95,Yes,Admin,0.87
+61cf4800-4fb6-4d00-b019-eec44c3f7f92,U57228,2025-01-03 05:00:03,4,PC,Android-App,96.199.141.102,South Taylorport,Disabled,16.89,Yes,Admin,0.9
+aa6b0eba-ecca-4bd0-b4a3-1c81415d4fc0,U33475,2025-01-15 13:03:01,0,PC,Linux-Firefox,219.122.32.238,Pattersonburgh,Disabled,21.86,No,User,0.0
+4d988b2c-e082-4e57-9796-1f3dc374c8b0,U25553,2025-01-03 22:39:52,2,ATM,Android-App,156.249.38.33,Reidfort,Disabled,4.54,Yes,Guest,0.07
+a82c72fa-59c1-4a85-93b6-d1dace6a302f,U28674,2025-02-04 04:52:54,4,Tablet,Android-App,61.206.240.170,Devinfurt,Disabled,24.08,Yes,Admin,0.81
+2cdc1627-95e9-4906-ba10-56ad0e78c99c,U28097,2025-01-23 02:21:54,4,Mobile,Android-App,96.244.236.78,Williamshire,Disabled,24.22,Yes,Admin,0.98
+2d245d9d-5ebd-4ff4-84a1-f67d9e232176,U82466,2025-01-16 03:51:40,1,Mobile,Windows-Chrome,4.51.72.229,East Annehaven,Disabled,48.31,Yes,User,0.05
+c8b2e981-2dda-43d7-9417-f3f9254cf16f,U53912,2025-01-13 14:11:33,1,Tablet,Linux-Firefox,157.234.244.32,North Sandytown,Disabled,13.44,Yes,Admin,0.98
+4aec3045-212f-471f-99b9-68a84834ee5b,U84341,2025-02-10 23:04:34,1,PC,Windows-Chrome,192.7.54.90,Port Peter,Disabled,20.26,Yes,Guest,0.63
+328d0958-86b5-4369-b102-660abfac2620,U93968,2025-01-07 02:15:22,2,ATM,Mac-Safari,155.106.59.112,Lake Anthony,Disabled,26.43,Yes,User,0.07
+7216bd78-bd12-40b8-a8a4-ed1c00459d9e,U43682,2025-01-11 15:46:54,1,PC,Mac-Safari,134.10.188.46,Jonesfort,Disabled,9.17,Yes,Guest,0.57
+4c66815d-de42-4334-8156-08f5c8693371,U27825,2025-01-22 10:55:43,5,PC,Windows-Chrome,87.251.253.24,Lake Katiestad,Disabled,26.74,Yes,Guest,0.6
+b3cdab03-89be-4b4a-b4e0-45b097c2a26e,U35499,2025-01-26 03:12:07,2,Mobile,Windows-Chrome,197.11.41.44,East Larry,Disabled,2.34,Yes,Admin,0.83
+39073890-b508-403c-92ab-169ea011b461,U74509,2025-01-03 22:16:33,3,Tablet,Linux-Firefox,75.123.172.8,Eatonfort,Disabled,27.24,Yes,Admin,0.85
+9e8fdaba-9f5b-4411-a775-085d5b93cd9a,U59360,2025-01-27 09:48:49,1,Mobile,Android-App,139.161.163.214,Thomasmouth,Enabled,41.15,Yes,Guest,0.09
+d0707094-54d2-4a45-af1b-d4bff3a75d60,U54945,2025-01-05 09:27:37,1,Tablet,Android-App,151.17.213.192,Harrisonborough,Disabled,24.75,Yes,Admin,0.82
+ce5cee3e-d49d-4e45-bcb2-859f243b4b4c,U75846,2025-01-25 12:54:00,1,ATM,Android-App,142.128.38.181,Kellyfort,Disabled,4.37,Yes,Admin,0.86
+f7d5fc88-a997-410f-bdd5-c40ba4d59ec0,U70786,2025-01-28 03:40:23,4,Tablet,iOS-App,75.101.186.179,North Crystalstad,Disabled,13.52,Yes,Guest,0.55
+7008c8d5-cdc7-47e7-8fcd-385b80c9d112,U46707,2025-01-09 00:46:16,2,ATM,iOS-App,211.186.89.108,Port Robert,Disabled,21.13,Yes,Admin,0.99
+eebdb754-df5b-4c92-a2c8-6022b43d6c03,U61108,2025-02-10 06:33:35,0,ATM,Mac-Safari,8.55.224.152,North Sandraburgh,Disabled,2.2,Yes,User,0.03
+2aa84c8e-4b85-476b-afec-0d7844625c22,U38778,2025-01-02 23:15:46,1,Tablet,Linux-Firefox,185.51.215.155,East Lynnfort,Disabled,13.52,Yes,User,0.16
+602585e6-5734-41c2-86a9-474277d6dff4,U38014,2025-01-08 08:59:56,0,ATM,Linux-Firefox,49.17.81.63,Brianbury,Disabled,16.3,Yes,User,0.05
+a21bc7c9-99eb-48a9-b629-f969657d8f22,U64503,2025-02-11 15:37:42,3,POS,iOS-App,180.107.13.54,North Amandafurt,Disabled,14.66,No,User,0.06
+ff14fc2a-c05d-4ba7-af27-ba97a54b0b75,U97901,2025-02-08 15:05:07,0,Tablet,Linux-Firefox,10.114.142.159,Port Jason,Disabled,4.05,Yes,Admin,0.93
+6ea5158a-eb28-4b76-8312-8cd5d39bc04d,U35254,2025-01-16 23:04:45,1,Mobile,iOS-App,185.10.21.74,West Dustinville,Disabled,119.63,No,User,0.01
+55332a93-6d84-4010-820e-78e8c681928a,U30062,2025-01-12 01:50:10,2,Tablet,Linux-Firefox,123.125.101.38,North Amymouth,Disabled,87.89,No,Guest,0.23
+fae1fd6b-ce85-403f-a31b-e3108db16d76,U15757,2025-01-08 08:21:19,1,POS,Mac-Safari,13.246.106.138,Lake Bonnieberg,Disabled,69.49,No,User,0.19
+39ad8246-3fa0-4d7a-8b6f-d524c9ceb343,U49482,2025-02-06 15:59:49,4,Mobile,Android-App,99.81.80.101,East Teresa,Disabled,15.51,Yes,User,0.77
+eab54fdd-5d7e-4567-aea3-98c080b86554,U93492,2025-02-10 12:52:04,1,Mobile,Android-App,9.200.244.85,West Heather,Disabled,15.3,Yes,Guest,0.05
+a1b422e9-400b-4bdf-a4a5-a506b93b6381,U16624,2025-01-04 15:53:02,3,ATM,iOS-App,10.78.230.233,South Ashleyberg,Disabled,5.89,Yes,User,0.08
+df195809-9d50-4852-b138-e1732f11e9e7,U98371,2025-01-07 10:54:34,5,POS,Android-App,88.226.162.114,Russellview,Disabled,17.83,Yes,User,0.79
+8a7a5414-234c-44ab-b6cf-923a4a308c9f,U56100,2025-01-25 04:14:38,0,PC,Linux-Firefox,188.239.82.168,North Patrick,Disabled,11.16,No,Guest,0.45
+3140e1ca-2fcf-4e05-a117-54405509290e,U76044,2025-01-11 08:04:57,5,Mobile,Android-App,77.26.179.120,Hillbury,Disabled,11.41,Yes,Admin,0.96
+f53bc8f0-943b-4c0f-950d-b2fbc3080b10,U36885,2025-01-21 07:17:00,1,Tablet,Android-App,49.251.245.89,Kaylastad,Enabled,44.64,Yes,User,0.15
+664d4f25-1f00-439c-a915-95edd8f600d4,U67448,2025-01-27 11:30:58,4,PC,Linux-Firefox,131.88.146.228,South Brianborough,Disabled,14.73,Yes,Admin,0.89
+41cc04ee-9fed-4b74-9b90-0bb70fc82dc7,U72121,2025-01-02 17:25:12,0,Mobile,iOS-App,202.88.33.121,Lawsonhaven,Disabled,90.69,No,Guest,0.11
+24bc3189-916c-4026-bac0-15b309e0ac53,U64550,2025-01-01 22:40:17,0,Mobile,Windows-Chrome,25.141.197.60,Paulfurt,Disabled,20.13,Yes,Guest,0.35
+5d649f95-2c56-44d1-a06e-6d8bfe8a03eb,U42471,2025-01-08 10:22:57,4,Tablet,Android-App,42.232.245.169,Ashleyfurt,Disabled,11.97,Yes,User,0.72
+84555e37-2e1b-4c40-9840-9f7d63ff6770,U31389,2025-01-01 03:41:02,3,Mobile,Windows-Chrome,104.95.160.114,Normanmouth,Disabled,9.56,Yes,Admin,0.87
+2cf93d36-5fa3-447b-8406-81e642dae673,U42063,2025-02-08 15:05:45,2,POS,Linux-Firefox,108.103.47.97,Port Michelle,Disabled,13.29,Yes,Admin,0.98
+d06a9f17-5090-4383-8194-ee6079ae8fe4,U90402,2025-01-23 17:22:44,4,Mobile,Mac-Safari,151.18.60.80,North Cory,Disabled,8.25,Yes,User,0.71
+2731cf70-d97a-4df0-86d0-8af161221563,U26917,2025-02-06 01:03:10,1,Tablet,iOS-App,162.47.172.160,Port John,Disabled,17.21,Yes,Admin,0.89
+79ff913e-f861-4075-983f-30046f94a71f,U78974,2025-01-18 03:11:26,5,POS,iOS-App,204.249.215.97,Calebmouth,Disabled,10.18,Yes,Guest,0.59
+7f877059-0146-4fd4-817a-4323bcb94472,U15612,2025-01-24 07:20:22,3,PC,Windows-Chrome,42.146.238.13,Collinsstad,Disabled,17.81,Yes,Admin,0.82
+275970a9-c543-4f1d-aa6d-8ccc03b77ec0,U68052,2025-02-06 11:34:02,0,ATM,iOS-App,152.0.114.33,West Ginabury,Disabled,18.76,Yes,Admin,0.88
+c6d14c1c-1fa2-4beb-be49-757c36f29bbf,U60690,2025-02-03 04:50:36,2,POS,Linux-Firefox,200.35.244.6,Grayside,Disabled,6.66,Yes,Guest,0.56
+68bb1e2d-d00c-4e3e-8fdb-b3c3421b52ba,U93295,2025-01-14 23:27:49,5,PC,Windows-Chrome,124.199.188.235,Bartonhaven,Disabled,23.31,Yes,Admin,0.86
+2d8c7760-1203-4411-9446-ffd5c35d5365,U82848,2025-01-06 08:54:18,1,POS,iOS-App,174.131.128.191,Marissaport,Disabled,17.78,Yes,User,0.02
+e9f28a56-387d-404d-9d53-1a50707ed945,U46450,2025-01-19 02:26:34,0,POS,Linux-Firefox,22.34.90.216,Jonesfort,Disabled,16.73,Yes,Guest,0.63
+d9f51cfa-ec48-42cc-9321-200ac08becf1,U46387,2025-01-27 16:45:10,5,Tablet,iOS-App,188.16.219.28,Douglasfurt,Disabled,7.24,Yes,Admin,0.81
+49664a97-fcd6-4e87-8239-15f004db0d04,U40397,2025-01-01 17:39:55,0,PC,iOS-App,196.184.56.48,Rothtown,Disabled,9.53,Yes,Admin,0.82
+d8af1035-1b16-4937-8c30-124c974831d7,U19042,2025-02-03 02:10:05,2,PC,Windows-Chrome,86.25.80.203,Guerrerostad,Disabled,44.69,Yes,User,0.18
+537f4518-30eb-4da9-86e8-4944cad07d79,U52749,2025-02-03 19:52:31,0,ATM,iOS-App,37.97.32.5,New Danielville,Disabled,69.39,Yes,Guest,0.13
+0b2f8f73-5faa-426a-b2a7-c1f6c6c311bb,U25807,2025-02-03 06:22:05,4,POS,Mac-Safari,158.207.0.146,East Stephaniehaven,Disabled,4.63,Yes,Admin,0.92
+c03c59e4-aaab-4122-b38e-08d3ec7544e7,U74410,2025-01-04 18:59:22,0,ATM,iOS-App,40.180.206.241,Smithfurt,Disabled,19.12,Yes,Admin,0.96
+f04f915c-8c24-4298-9b5e-1e8759e1b6c4,U47361,2025-01-10 23:28:47,2,PC,Linux-Firefox,105.107.166.138,Lake Jessica,Disabled,6.53,Yes,User,0.1
+955442b2-3493-47cc-823c-373a91198a69,U40302,2025-01-25 19:22:24,2,PC,Linux-Firefox,36.31.158.84,West Jeffrey,Disabled,18.69,Yes,Admin,0.85
+83b54e0b-00c8-4316-a30e-79c4cceedbe2,U72242,2025-01-09 18:43:34,4,ATM,Linux-Firefox,66.185.219.8,South Lindsey,Disabled,6.99,Yes,Admin,0.96
+efd81397-03c1-4662-9274-8c92bffcf695,U83453,2025-02-08 15:23:54,4,POS,Android-App,115.223.99.48,West Timothy,Disabled,14.68,Yes,Admin,0.81
+14bec612-bb83-459b-91e2-b2873525de74,U49361,2025-01-25 16:54:04,2,Mobile,Windows-Chrome,29.183.217.250,Harrisonhaven,Disabled,1.69,Yes,Guest,0.55
+f8721fb8-b873-40dd-bb80-ec837651c1d5,U64128,2025-01-11 08:26:02,2,ATM,Mac-Safari,167.84.38.92,North Jerryside,Disabled,21.06,Yes,Admin,0.92
+c5e31b5f-0bb3-4677-a8f1-0c3438fb3b81,U38811,2025-02-10 08:57:00,5,Mobile,Windows-Chrome,185.194.105.73,South Suzanne,Disabled,1.23,Yes,Admin,0.95
+fbf282e1-8a34-4cea-b07a-9b5c4e17c851,U79114,2025-01-08 11:04:38,4,PC,iOS-App,76.16.119.71,New Brittanyton,Disabled,24.87,Yes,Admin,0.86
+5464647a-a6e7-4abc-b4a8-7584e24ba683,U75151,2025-01-13 18:21:25,0,PC,Windows-Chrome,125.174.83.134,New Roberttown,Disabled,8.43,Yes,Admin,0.91
+be5e7708-4285-4a0f-89d6-59051eceeed9,U29274,2025-01-14 12:21:24,1,Tablet,Windows-Chrome,219.58.234.57,South Ronald,Enabled,3.5,Yes,Guest,0.05
+554b3d15-09bd-4cff-9d15-baa5b85b700b,U68119,2025-01-25 20:18:39,5,Mobile,Linux-Firefox,138.204.33.59,Powellside,Disabled,8.09,Yes,Admin,0.89
+b69a4d34-716c-472d-862c-30a7aa6df788,U83972,2025-01-01 04:08:13,1,ATM,iOS-App,68.52.254.8,Fletchershire,Disabled,14.51,Yes,Guest,0.58
+8a5cf7a6-81bc-46ba-b368-70d2477a2fc1,U35793,2025-01-28 04:55:47,4,POS,Android-App,105.29.94.100,Cobbborough,Disabled,6.15,Yes,Admin,0.87
+35354ffc-f3dd-429d-9a7a-4bf55b3631f6,U90367,2025-02-06 08:26:09,0,Mobile,Linux-Firefox,149.163.45.102,New Davidhaven,Disabled,50.62,Yes,User,0.09
+64876b0d-0e2b-426b-8fad-474389b1fce4,U73007,2025-01-22 02:58:01,0,POS,Mac-Safari,83.118.126.232,West Jameschester,Enabled,8.4,Yes,Guest,0.06
+194b96a5-cd54-4a70-aab9-c1158be1f9ec,U49973,2025-02-11 08:21:02,1,POS,Android-App,10.83.97.18,Michelleport,Enabled,111.77,Yes,Guest,0.12
+7a55669e-ba00-47e5-b16f-1e7e1f0e1d3b,U85199,2025-01-06 23:04:48,2,Mobile,Linux-Firefox,31.57.132.33,North Kathy,Disabled,29.19,Yes,User,0.18
+d5afbca1-8f19-4b88-bc96-1113bde18d68,U41635,2025-01-17 15:04:23,3,ATM,Android-App,21.250.4.62,East Tiffanymouth,Disabled,21.12,Yes,Admin,0.88
+94e24300-1329-4d39-8d99-9413555390a2,U63158,2025-01-18 16:44:24,2,Tablet,Linux-Firefox,102.117.174.139,Obrienville,Disabled,17.18,Yes,User,0.15
+6e97af84-3e74-4abd-aad3-8532b97fb3a8,U17914,2025-01-09 17:23:12,0,ATM,Linux-Firefox,71.229.10.36,North Johnfurt,Disabled,48.56,No,Guest,0.09
+eec85c09-79b7-4724-8071-05e73470775f,U40226,2025-02-01 16:33:39,3,PC,Windows-Chrome,39.235.61.203,South Glenn,Disabled,11.34,Yes,Guest,0.54
+e65b5f43-f2b9-4bef-a5ef-85a67c2b9a22,U48631,2025-01-06 07:03:45,3,Tablet,iOS-App,215.26.234.134,North Alejandra,Disabled,26.95,Yes,Admin,0.99
+c1ec321a-676a-4644-93af-849e489fd7cf,U99095,2025-01-12 05:48:16,3,PC,iOS-App,61.20.135.136,Katieshire,Disabled,13.78,Yes,Admin,0.82
+a28c0be0-7b4a-4a06-8275-920f9a3bcd4c,U45650,2025-01-28 10:14:03,2,ATM,iOS-App,78.99.168.32,Floresborough,Disabled,11.42,Yes,User,0.38
+647e8eca-ef81-4139-9272-67e7ed5e52c5,U52490,2025-01-30 11:15:41,5,POS,Windows-Chrome,149.72.76.2,Harperstad,Disabled,1.84,Yes,Admin,0.95
+ebd035f7-ad07-4a1a-8f4c-e801c108e914,U34002,2025-02-02 17:02:31,1,Mobile,Android-App,163.56.199.99,Port Williemouth,Disabled,2.33,Yes,Guest,0.13
+39d12cd0-fabb-46d9-8211-c240413ab402,U50157,2025-01-04 22:46:09,0,Mobile,iOS-App,33.54.38.172,North Taylor,Disabled,14.19,Yes,Guest,0.58
+795bc629-f2f8-4239-a463-c4e3a82caede,U97060,2025-01-02 01:43:07,3,PC,Linux-Firefox,69.120.158.77,Port Scottbury,Disabled,16.72,No,User,0.08
+6565da31-f398-4043-9ac2-67cd515fca56,U77125,2025-01-31 14:11:52,5,Tablet,iOS-App,179.81.80.255,Dorischester,Disabled,13.65,Yes,User,0.58
+247c22ae-5e70-4d45-b6bb-a276d2f55683,U58405,2025-01-23 20:54:01,0,POS,iOS-App,108.29.227.166,New Anthony,Disabled,7.97,Yes,Guest,0.01
+c1fa00e4-94aa-48da-970d-44a446b80ed7,U34237,2025-01-16 05:45:21,1,Tablet,Linux-Firefox,205.77.37.101,Marymouth,Disabled,20.39,Yes,Admin,0.85
+14dbbcaf-84a0-4239-af09-a386db948c72,U78517,2025-01-13 02:27:06,4,Tablet,Mac-Safari,165.249.231.180,Curtisfurt,Disabled,12.63,Yes,Admin,0.86
+6fb4bbf5-e990-4e9e-8618-0b88212fb8b3,U91999,2025-01-13 17:35:07,3,PC,Android-App,90.15.250.254,Lauramouth,Disabled,17.6,No,Guest,0.46
+6e62153b-cc7b-4224-a81e-6bcb4c49bd62,U13427,2025-01-26 14:38:30,5,POS,Windows-Chrome,66.164.245.83,South Taylor,Disabled,1.55,Yes,Admin,0.92
+e1c1eed1-709c-4516-94e4-551b625a764d,U91494,2025-01-17 15:04:36,2,PC,Windows-Chrome,50.201.222.203,Lake Ericstad,Disabled,16.85,Yes,Admin,0.85
+fe8ad453-a173-48d6-add7-e635ffb7de18,U40119,2025-01-19 14:02:39,0,Tablet,Linux-Firefox,139.129.92.247,Davisborough,Enabled,81.12,No,Guest,0.01
+ea937cf5-5b35-47cc-87ef-9f9a2b5f862a,U76513,2025-02-03 02:47:00,5,Tablet,Android-App,88.205.1.95,Whiteton,Disabled,19.71,Yes,Admin,0.9
+c5a9f02c-bc3c-4f6a-8cea-5ea9d2be7b0d,U20978,2025-01-15 17:14:21,5,Mobile,Android-App,40.84.228.193,West Martinside,Disabled,12.03,Yes,Admin,0.99
+81035d29-83c0-43f9-b661-39e75ae187d5,U68765,2025-02-07 06:13:21,1,POS,Windows-Chrome,37.187.116.24,Taylorberg,Disabled,5.42,Yes,Admin,0.9
+18f9601e-587a-42df-aee9-6d75301aee69,U29392,2025-01-04 14:46:53,2,ATM,Linux-Firefox,97.30.183.86,East Matthew,Disabled,17.35,Yes,Admin,0.88
+4f17d1d3-a327-4eb9-93cd-feb84d10cb74,U17991,2025-01-06 11:05:05,2,Tablet,Mac-Safari,194.57.212.47,Tammyport,Disabled,27.2,Yes,User,0.16
+532ec183-56d2-4a5f-aa3b-d77fdea86b81,U53914,2025-02-08 08:30:04,3,POS,Mac-Safari,70.148.187.177,North Madison,Disabled,16.94,Yes,Guest,0.16
+e942f23d-1eae-4528-829a-3d2f2952ce8e,U66304,2025-01-25 02:01:24,5,Mobile,iOS-App,92.251.150.16,Lake Oliviaville,Disabled,19.65,Yes,Admin,0.86
+64f8f1ba-d746-4a67-96f7-ce08cc28de53,U86142,2025-02-03 01:13:34,3,Tablet,Linux-Firefox,94.166.129.176,East Courtneychester,Disabled,23.82,Yes,User,0.49
+ad60c9f0-e185-4bb3-95ee-5dff879b3f2a,U16170,2025-02-06 15:57:38,5,Tablet,Linux-Firefox,18.44.166.176,South Gloriaberg,Disabled,3.88,Yes,Admin,0.82
+dba7b6c5-7677-4b02-a343-2122043a50ac,U59358,2025-01-18 17:06:15,5,ATM,Mac-Safari,72.18.138.66,West Tony,Disabled,8.7,Yes,User,0.75
+e4fdfd01-0ef0-4acb-9b22-6390ed24edee,U22961,2025-01-30 06:29:59,4,PC,iOS-App,84.47.23.47,Smithborough,Disabled,9.0,Yes,Admin,0.84
+b4619527-35c8-478f-be86-aa1775c1fafc,U11412,2025-02-03 18:29:57,1,PC,Android-App,190.114.204.98,New Samuelburgh,Disabled,9.64,Yes,Guest,0.24
+bd877b4a-3ba5-4b70-bf99-672cb2182108,U71784,2025-01-19 17:06:07,1,PC,iOS-App,32.237.111.247,South Amandafurt,Disabled,6.56,Yes,Admin,0.96
+baca636c-7552-4726-9a3a-a28d19f423a2,U39197,2025-01-30 19:55:05,5,Tablet,Android-App,21.183.133.70,New Brian,Disabled,4.97,Yes,Admin,0.92
+59459882-aa29-4b1f-81c0-6dede4c303bc,U72424,2025-01-05 13:36:27,4,Mobile,Mac-Safari,174.146.113.194,Rojasshire,Disabled,1.11,Yes,Admin,0.9
+84bd8d0b-de62-4c59-bbc3-549ae7e7788b,U42466,2025-01-25 21:59:29,0,PC,Mac-Safari,139.143.104.166,Drewborough,Enabled,56.6,No,Guest,0.31
+7dadd6fa-a9b9-4842-853d-6c2e1ab82900,U25787,2025-01-06 19:41:16,4,Tablet,Mac-Safari,171.13.176.117,North Kennethchester,Disabled,10.2,Yes,Admin,0.82
+219d06bf-b92c-4c0e-bace-221acc34ccf5,U67351,2025-01-01 00:40:34,3,PC,Android-App,187.221.233.145,Port Sabrina,Disabled,20.6,Yes,Admin,0.87
+90b465af-4cc3-46ba-b692-5596e87ff835,U63730,2025-01-14 05:18:35,2,Mobile,Linux-Firefox,131.167.171.4,Port Theresa,Disabled,19.38,Yes,User,0.47
+dd55b324-0408-4298-b47c-9c19b6600c46,U66299,2025-02-11 16:25:01,4,PC,iOS-App,117.165.211.151,Aaronport,Disabled,11.43,Yes,User,0.74
+7f2705ca-ce89-48e8-91fa-a56eef0e19d8,U21733,2025-01-29 16:25:48,4,Tablet,Windows-Chrome,155.216.66.1,New Sonyastad,Disabled,10.58,Yes,Admin,0.81
+d70e4c9e-f58d-4100-8c58-8c3ff990816c,U26765,2025-02-05 02:53:25,3,Mobile,Android-App,142.144.244.202,West Erica,Disabled,14.74,Yes,Admin,0.82
+373151e4-3659-4483-986b-fdb0c7e5fe13,U36434,2025-01-06 14:12:34,0,PC,Android-App,152.144.48.246,South Brittany,Enabled,19.85,Yes,User,0.04
+87abbd68-ce59-4114-87eb-188ad9423bc1,U47122,2025-02-03 07:30:08,5,ATM,Mac-Safari,87.176.100.166,Jenniferton,Disabled,13.2,Yes,Admin,0.93
+e912c330-bc6d-4d24-9fb8-96b52db1e533,U43653,2025-02-02 10:09:53,2,Mobile,iOS-App,138.244.201.205,Rachelport,Enabled,57.1,Yes,User,0.14
+c424b82c-dd66-455f-8b26-e3e9c8f49d4a,U60939,2025-01-26 01:02:00,4,POS,Windows-Chrome,88.176.69.187,Jasonburgh,Disabled,8.93,Yes,Admin,0.9
+3ef978c6-846e-4095-a06d-21aaccee23b3,U85233,2025-02-04 21:37:00,5,ATM,Mac-Safari,208.219.203.82,Davidton,Disabled,17.57,Yes,Admin,0.83
+cca16cfd-8c2a-49b9-b303-852610911f17,U22260,2025-01-30 06:58:01,2,Mobile,iOS-App,173.207.21.109,Whitehaven,Disabled,19.15,Yes,Guest,0.06
+63be5601-b4e0-4175-8153-1f5225d66ca2,U10215,2025-02-06 09:09:54,3,POS,Linux-Firefox,1.20.161.185,New Rickyton,Disabled,21.11,Yes,User,0.24
+4114f33e-6b98-487a-b487-a92535e5b71f,U82067,2025-02-08 12:19:26,0,PC,Windows-Chrome,33.188.102.20,New Heathermouth,Disabled,7.66,Yes,Admin,0.83
+5f61dfe9-a23c-4bbc-b42d-7926115d3b46,U18628,2025-01-09 17:20:29,1,Mobile,Linux-Firefox,113.43.54.189,Barbaraville,Disabled,15.79,Yes,Admin,0.94
+2662537e-e1b2-4a51-83ba-2dc33abd70ed,U92386,2025-01-31 19:01:05,4,ATM,Windows-Chrome,104.167.234.125,Watsonton,Disabled,22.48,Yes,Guest,0.71
+e28ecb17-a2b6-4565-b052-3fc4bc627afe,U36436,2025-01-05 20:26:39,1,ATM,Linux-Firefox,18.68.128.194,Matthewland,Disabled,5.18,Yes,Guest,0.33
+8b3a1a9f-a2bb-4ac6-9fdc-ba35cb3a4c12,U45153,2025-01-23 00:48:52,0,Tablet,Windows-Chrome,187.122.96.221,Emilymouth,Disabled,7.4,Yes,User,0.21
+7e164418-106e-4d0b-b747-dc573964cd13,U36945,2025-01-03 18:09:45,2,POS,Android-App,71.98.29.100,Oconnorchester,Disabled,11.22,Yes,User,0.48
+79a572ca-260a-4655-8f37-b676b19572d2,U22347,2025-01-06 16:11:06,2,PC,Mac-Safari,140.231.150.54,North Tylerchester,Disabled,19.67,Yes,User,0.5
+e7402a62-acb9-45d4-abc7-716afabb91e4,U93592,2025-01-30 15:57:00,2,ATM,iOS-App,206.120.118.132,Williamberg,Disabled,23.09,Yes,Admin,0.95
+ff71c836-2d93-4204-a9a2-46140e404132,U16234,2025-02-02 07:31:38,4,POS,Linux-Firefox,45.43.221.11,Jamesland,Disabled,15.45,Yes,User,0.79
+d13aaa43-8d22-422a-9884-e3f196c330f6,U33620,2025-01-07 06:22:00,0,Mobile,iOS-App,48.130.243.246,Masonhaven,Enabled,104.92,Yes,Guest,0.41
+1ea5faba-e934-4ef6-8338-04ba841ac96e,U86648,2025-01-19 14:09:43,5,ATM,iOS-App,107.195.120.202,West Marissaland,Disabled,16.56,Yes,Guest,0.76
+28de52ce-6002-469b-819d-7f7372896722,U51487,2025-01-03 04:41:57,2,Tablet,iOS-App,30.6.155.70,Port Elizabeth,Disabled,26.07,Yes,Guest,0.04
+c607ad50-f222-4f93-9fae-9b62234404c4,U87725,2025-02-02 11:30:21,2,Tablet,Linux-Firefox,162.151.125.150,Ryantown,Disabled,17.43,No,User,0.08
+39ee1a93-e1bd-483d-aaf6-e8e497a5e664,U13355,2025-01-09 11:07:18,1,Mobile,iOS-App,104.129.200.200,Michellestad,Enabled,91.09,No,User,0.07
+6b55c914-73ce-4845-89e1-c0adffb54930,U89036,2025-01-01 02:14:44,0,POS,Mac-Safari,206.191.70.90,South Kaylaside,Disabled,4.75,Yes,User,0.12
+b57c29a1-a77e-492f-9197-c2a1a44967a7,U45296,2025-01-04 01:44:38,3,Mobile,Android-App,132.92.80.237,Jeremyborough,Disabled,1.37,Yes,User,0.46
+27c05818-68e5-4e54-a59d-35354598c841,U92490,2025-01-27 00:50:24,0,POS,Windows-Chrome,202.3.136.13,Aprilview,Disabled,68.35,Yes,Guest,0.21
+aef1a2e6-30ad-49bb-a182-802dee2154e1,U90757,2025-02-03 14:48:43,1,Tablet,iOS-App,18.203.111.224,Port Cindy,Disabled,48.18,Yes,Guest,0.07
+cc652303-5580-452e-a294-6f5b453ee0ef,U70866,2025-01-05 12:27:39,4,PC,Windows-Chrome,28.207.90.37,Johnmouth,Disabled,12.6,Yes,Admin,0.92
+81142f11-dbc5-4100-88dc-d93649471fbf,U75983,2025-01-16 07:03:33,1,POS,iOS-App,63.0.196.218,Ricemouth,Enabled,44.22,Yes,Guest,0.01
+e8730c4d-38e5-46fc-bdfb-3477559bb7e1,U57666,2025-01-30 20:15:32,5,ATM,Android-App,27.98.190.167,Desireechester,Disabled,1.57,Yes,Admin,0.82
+a721c086-cdd6-4c4f-bd1e-f2cd7686a05f,U65290,2025-01-20 03:17:26,1,Tablet,Linux-Firefox,162.54.22.106,New Joshuaborough,Disabled,13.5,Yes,Guest,0.21
+58a11bb5-ee94-424e-bc0e-d3793b000571,U70973,2025-01-11 00:43:40,2,Mobile,Windows-Chrome,120.171.59.95,East Summer,Disabled,18.02,Yes,Admin,0.91
+ab6f7dbb-6977-4d1c-8c0d-9677e26723e3,U97553,2025-01-23 22:16:23,3,PC,Windows-Chrome,132.199.108.18,South Jessicatown,Disabled,9.85,Yes,Guest,0.35
+2ca273da-2a73-41bb-a1f8-59fa9a7ecdf5,U43968,2025-01-24 15:46:18,2,POS,iOS-App,151.110.141.48,Davidtown,Disabled,23.26,Yes,Guest,0.14
+5e9f77c3-3bdf-4cf7-8abd-bd71cbaf9abb,U90834,2025-01-16 05:13:27,2,Mobile,Windows-Chrome,66.103.47.79,Haynesside,Disabled,8.6,Yes,Guest,0.76
+cce1c3f1-260e-44a8-bbf9-e4b6d4c31594,U57225,2025-01-05 16:18:41,4,Tablet,Windows-Chrome,144.180.95.8,Annahaven,Disabled,4.7,Yes,Admin,0.81
+0ac3e0d4-4e11-4832-920b-84e536fd49d7,U23268,2025-01-18 14:31:35,1,Tablet,Windows-Chrome,219.173.221.152,Robinberg,Disabled,29.16,Yes,Admin,0.81
+a8b0cc83-cc49-4ca7-abea-395c4d7cc41d,U54620,2025-01-11 06:20:47,2,PC,Android-App,61.121.71.95,North Aaron,Disabled,77.21,No,Guest,0.22
+1ccbca1d-1651-4ab7-82a2-dea0f0c17ab1,U41530,2025-02-10 06:25:40,3,ATM,iOS-App,60.47.122.59,Mcdonaldhaven,Disabled,7.53,Yes,Admin,0.9
+46e06928-81e2-4d11-aa9a-13b20505e3c2,U57553,2025-01-27 08:57:20,2,PC,Linux-Firefox,131.188.103.20,North Kristina,Disabled,88.51,Yes,Guest,0.17
+664e9a3b-ae1f-4d75-a445-268fc519cbb2,U56787,2025-01-22 18:25:06,1,Tablet,Windows-Chrome,73.24.192.183,Watkinsburgh,Disabled,20.16,Yes,Admin,0.96
+244d8319-6f1c-42e4-897e-125b4180af99,U81987,2025-02-08 12:07:21,3,PC,iOS-App,100.242.11.167,New Andrewfort,Disabled,13.35,Yes,Admin,0.88
+936a4281-ac29-4e91-9ede-ec385b44cdd3,U79043,2025-02-03 12:49:18,3,ATM,Linux-Firefox,89.120.224.206,Port Brianmouth,Disabled,10.93,Yes,Guest,0.72
+41f6a51e-e3f3-4fe3-abee-9b301e820933,U91622,2025-02-11 18:00:57,3,POS,Android-App,133.190.106.69,Johnnyland,Disabled,17.0,Yes,Guest,0.16
+377dbf91-12cb-43da-877f-cc142df9662d,U83151,2025-02-10 05:51:34,1,POS,Android-App,186.219.81.44,New Christian,Disabled,14.19,No,Guest,0.05
+05c49085-2ada-4dc2-90ac-098a9f45b74f,U28898,2025-01-19 09:34:57,3,PC,iOS-App,35.19.133.228,Princestad,Disabled,10.55,Yes,Admin,0.98
+4ff25e03-7f94-4fb5-ac92-53029956f7af,U76046,2025-02-03 14:45:10,5,PC,iOS-App,146.83.132.158,Curtisburgh,Disabled,12.93,Yes,Admin,0.83
+6c20ab74-b15c-4e00-b361-c472d65ace48,U33134,2025-01-14 16:10:25,2,ATM,Android-App,22.108.235.110,West Heidifort,Disabled,16.52,Yes,Admin,0.93
+7414eab3-a256-446a-b22a-8c3498813e64,U77678,2025-02-04 22:51:57,3,Tablet,Windows-Chrome,125.127.59.140,Kevinchester,Disabled,3.31,Yes,User,0.04
+8216a55a-87f6-4117-9f0d-40478bc9fd77,U22614,2025-01-24 19:25:35,2,ATM,Mac-Safari,77.221.187.100,East Laura,Disabled,13.8,Yes,Guest,0.39
+7bbcbbd5-2b3a-48a2-840b-0073c82baa60,U28063,2025-02-02 23:35:10,0,ATM,Android-App,23.3.228.155,South Elizabeth,Enabled,68.76,Yes,Guest,0.31
+888448f5-4615-4687-abc1-912e8d8444b5,U54817,2025-01-06 15:37:49,3,ATM,Mac-Safari,109.185.163.1,New Madisonfurt,Disabled,2.78,No,Guest,0.14
+9d5b043a-7a2e-471d-b521-2294f7851833,U89379,2025-02-04 14:53:48,3,POS,iOS-App,12.251.175.202,South Karenhaven,Disabled,23.54,Yes,User,0.22
+b31a88aa-e591-4f27-a369-2fb391a2667b,U63859,2025-01-28 00:35:11,0,Tablet,Mac-Safari,27.226.90.18,Port Franktown,Disabled,15.43,Yes,User,0.34
+ca68f42d-9b2c-428b-9577-23ab80d1f15a,U82415,2025-01-11 09:10:26,0,POS,iOS-App,156.217.200.232,Lopezhaven,Disabled,60.13,No,Guest,0.04
+1f4d8599-8816-4ae9-ac24-0a477c261e86,U48082,2025-01-09 14:23:32,0,POS,Mac-Safari,2.240.120.93,Garrettfurt,Disabled,10.91,Yes,User,0.18
+109ccd0a-85c8-40d8-9bd7-44ad2c5d55ac,U22282,2025-01-28 21:23:15,2,PC,iOS-App,137.101.130.253,New Kellyberg,Disabled,16.51,Yes,Guest,0.37
+eac3db79-e436-4da6-8e32-13861c54c575,U36523,2025-01-30 07:47:39,1,PC,Windows-Chrome,125.244.129.155,New Alanview,Disabled,27.73,Yes,User,0.52
+c6fa014a-1f0b-43e8-a402-71022fe46cd9,U56800,2025-01-15 19:47:15,2,Mobile,Linux-Firefox,24.211.100.1,Briggsbury,Disabled,16.01,No,User,0.4
+28bd8031-4a69-4f60-b16e-414e692f540a,U11455,2025-02-01 19:47:44,1,POS,Windows-Chrome,149.135.175.220,South Robert,Enabled,37.32,Yes,Guest,0.32
+5970754e-b4d1-4e86-b19d-f897d43f624c,U83527,2025-01-19 09:03:16,1,POS,Mac-Safari,174.113.236.244,Clarkstad,Enabled,35.03,No,User,0.46
+811371d2-83d0-4e4c-bbd2-e922c02e9380,U20910,2025-01-19 14:35:44,2,PC,Mac-Safari,205.234.111.171,New Nicholas,Disabled,21.75,Yes,Guest,0.58
+b82ae83a-6b09-435d-a175-567bee282eb2,U87523,2025-02-10 05:27:20,0,ATM,Windows-Chrome,141.158.220.173,East Michaelside,Disabled,15.87,Yes,User,0.59
+3063fbde-d30c-4182-bf12-dd3248893e20,U36815,2025-01-21 16:53:42,5,PC,Mac-Safari,85.27.151.92,North Christinahaven,Disabled,20.79,Yes,User,0.69
+36a46bce-d8e8-4627-b909-917d02b41892,U88284,2025-01-10 06:02:01,2,ATM,Mac-Safari,66.68.238.248,Jasonton,Disabled,27.08,Yes,Guest,0.66
+2e97aec1-d095-4274-bc5b-1f0cb30b77df,U30547,2025-02-05 17:44:37,2,Tablet,Android-App,52.98.166.210,South Jacquelineton,Disabled,27.43,Yes,Admin,0.87
+ae907c4a-683e-4a24-9c02-0a5013e4a6d4,U17977,2025-01-11 14:08:38,0,ATM,Mac-Safari,91.32.95.56,Torresville,Disabled,10.84,Yes,Admin,0.81
+4f9c6a5d-3e9b-42cf-b748-36fe672f7ccf,U15762,2025-02-05 14:02:01,2,POS,Windows-Chrome,14.16.140.66,Taraberg,Enabled,99.61,Yes,Guest,0.09
+e2241045-9e9e-4c83-8a53-8d76aa822995,U60668,2025-01-24 23:44:35,1,Tablet,Mac-Safari,74.241.64.130,Paulfort,Disabled,2.98,Yes,Admin,0.91
+d8687be0-bf39-4b9c-b787-e941f1808007,U58636,2025-01-24 07:29:29,0,PC,Android-App,195.66.228.25,South Megan,Disabled,7.17,Yes,Admin,0.99
+3fef2c0f-b944-4648-bc9c-d39b5e2c097c,U14010,2025-01-20 11:41:59,2,Mobile,iOS-App,208.190.64.7,East David,Disabled,25.95,Yes,User,0.01
+4d66d2c5-9aa7-4fab-8ed5-40f7f3684d1e,U73024,2025-01-29 21:12:00,4,PC,Windows-Chrome,57.145.34.247,Crawfordtown,Disabled,26.6,Yes,Admin,0.9
+20e34254-2e8c-433c-86ce-682a07754974,U89656,2025-01-31 17:58:28,4,ATM,Windows-Chrome,133.163.213.97,West Tylerville,Disabled,27.65,Yes,Guest,0.59
+1dc83376-61f5-4ddf-b419-934edb4b8ce9,U24672,2025-02-07 05:50:50,3,ATM,Android-App,22.124.148.44,Gravesfort,Disabled,15.41,Yes,Admin,0.91
+50686daf-e221-4cf1-ac6e-cfd02c82e425,U23021,2025-01-06 07:54:07,0,PC,Android-App,5.45.40.244,Michellemouth,Enabled,32.89,No,Guest,0.18
+82a43955-26c4-4b3b-9f38-de167ae69454,U75181,2025-01-22 15:29:42,4,ATM,Linux-Firefox,164.73.61.74,Elliottton,Disabled,12.73,Yes,Admin,1.0
+3e5f65ac-ff69-4264-8fec-e3f8a83827f5,U27868,2025-01-20 10:33:33,4,Tablet,Mac-Safari,10.233.112.72,Martinton,Disabled,1.94,Yes,Admin,0.91
+40d559e9-2884-4213-9172-43f821eafad6,U62641,2025-01-20 07:23:54,0,ATM,Linux-Firefox,215.238.188.68,New Thomas,Disabled,11.33,Yes,Admin,0.85
+8c38d5bd-a11f-48e5-8941-3821511111b9,U18744,2025-01-25 17:02:49,3,POS,iOS-App,71.131.179.68,Port Graceton,Disabled,13.24,No,User,0.25
+2d426d4c-129e-4de3-994f-472f033a168c,U65849,2025-01-31 12:06:31,2,ATM,Linux-Firefox,169.85.83.161,Victoriastad,Enabled,22.56,Yes,Guest,0.06
+6347bbcb-f631-4c2e-a298-8a70d8467819,U52238,2025-01-01 13:51:00,0,PC,Windows-Chrome,50.128.192.180,Lake Tonyfort,Disabled,21.12,Yes,User,0.76
