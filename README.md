@@ -1,6 +1,6 @@
-Abhishek Gupta -> https://github.com/AbhishekG160 
-Meghna Malasi -> https://github.com/Meghnagit20 
-Vaibhav Gupta -> https://github.com/Gupta2708 
+Abhishek Gupta -> https://github.com/AbhishekG160 . 
+Meghna Malasi -> https://github.com/Meghnagit20 . 
+Vaibhav Gupta -> https://github.com/Gupta2708 . 
 Vijayshree -> https://github.com/vijayshreepathak 
 
 This website is a simple tool that generates fake logs data to simulate real life scenario. It can be useful for testing, educational purposes, or any scenario where random IP addresses and data logging are needed.
