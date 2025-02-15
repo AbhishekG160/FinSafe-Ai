@@ -5,6 +5,8 @@
 - Vaibhav Gupta -> https://github.com/Gupta2708 . 
 - Vijayshree -> https://github.com/vijayshreepathak 
 
+## Website
+
 This website is a simple tool that generates fake logs data to simulate real life scenario. It can be useful for testing, educational purposes, or any scenario where random IP addresses and data logging are needed.
 
 ## Tech Stack
