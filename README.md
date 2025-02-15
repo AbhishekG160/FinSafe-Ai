@@ -1,4 +1,7 @@
-## Team 
+
+### 🧑‍🤝‍🧑 Team  
+*Team Name*: TECH TRIBE  
+- *Team Leader*: [@Vijayshree](#)
 
 - Abhishek Gupta -> https://github.com/AbhishekG160 . 
 - Meghna Malasi -> https://github.com/Meghnagit20 .
