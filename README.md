@@ -6,7 +6,7 @@
 - Abhishek Gupta -> https://github.com/AbhishekG160 . 
 - Meghna Malasi -> https://github.com/Meghnagit20 .
 - Vaibhav Gupta -> https://github.com/Gupta2708 . 
-- Vijayshree -> https://github.com/vijayshreepathak 
+- Vijayshree Vaibhav -> https://github.com/vijayshreepathak 
 
 ## Website
 
