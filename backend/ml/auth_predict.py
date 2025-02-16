@@ -34,9 +34,9 @@ import joblib
 import pandas as pd
 
 # Load models
-auth_model = joblib.load("/Users/meghna/Desktop/sih-2023-it-log-master/backend/ml2/auth_fraud_model.pkl")
-auth_encoder = joblib.load("/Users/meghna/Desktop/sih-2023-it-log-master/backend/ml2/auth_encoder.pkl")
-auth_scaler = joblib.load("/Users/meghna/Desktop/sih-2023-it-log-master/backend/ml2/auth_scaler.pkl")
+auth_model = joblib.load("/Users/meghna/Desktop/finsafeeai/backend/ml2/auth_fraud_model.pkl")
+auth_encoder = joblib.load("/Users/meghna/Desktop/finsafeeai/backend/ml2/auth_encoder.pkl")
+auth_scaler = joblib.load("/Users/meghna/Desktop/finsafeeai/backend/ml2/auth_scaler.pkl")
 
 def predict_auth(user_input):
     """Function to process input data and return predictions"""

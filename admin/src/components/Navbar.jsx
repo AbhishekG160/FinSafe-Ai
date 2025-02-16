@@ -44,7 +44,8 @@ export default function Navbar({ navbarOpen, setNavbarOpen }) {
       </div>
       <div className="flex flex-col w-full h-full text-2xl">
         <div className="h-fit flex w-full items-center justify-evenly">
-          <img src="/logo.svg" /> <span>FinSafe-AI </span>
+        <img src="/logo.svg" class="w-12 h-13" />
+ <span>FinSafe-AI </span>
         </div>
         <div className="flex flex-col gap-4 h-full justify-center">
           {links.map((link) => (

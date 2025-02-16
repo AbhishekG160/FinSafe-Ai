@@ -4,8 +4,8 @@ import joblib
 import pandas as pd
 
 # Load the Transaction Fraud model
-transaction_model = joblib.load("ml/transac_fraud_model.pkl")
-transaction_scaler = joblib.load("ml/transaction_scaler.pkl")
+transaction_model = joblib.load("/Users/meghna/Desktop/finsafeeai/backend/ml2/transac_fraud_model.pkl")
+transaction_scaler = joblib.load("/Users/meghna/Desktop/finsafeeai/backend/ml2/transac_scaler.pkl")
 
 # Get input from Node.js
 user_input = json.loads(sys.argv[1])

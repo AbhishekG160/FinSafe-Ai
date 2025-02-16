@@ -1,3 +1,122 @@
+// "use client";
+// import React, { useEffect, useState } from "react";
+// import {
+//   LineChart,
+//   Line,
+//   XAxis,
+//   YAxis,
+//   CartesianGrid,
+//   Tooltip,
+//   ResponsiveContainer,
+//   PieChart,
+//   Pie,
+//   Cell,
+//   RadialBarChart,
+//   RadialBar,
+//   Legend,
+// } from "recharts";
+// const COLORS = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042"];
+
+// export default function page() {
+//   const [riskVDay, setRiskVDay] = useState([]);
+//   const [riskEventType, setRiskEventType] = useState([]);
+//   const [riskVUser, setRiskVUser] = useState([]);
+//   useEffect(() => {
+//     const fn = async () => {
+//       const response = fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/admin/ml`);
+//       response.then(async (r) => {
+//         const j = await r.json();
+//         setRiskVDay(j.riskVDay);
+//         setRiskEventType(j.riskEventType);
+//         setRiskVUser(j.riskVUser);
+//       });
+//     };
+//     fn();
+//   }, []);
+
+//   return (
+//     <section className="w-full h-screen gap-8 flex flex-col items-center mb-12">
+//       <div class="flex flex-col w-full h-1/2 items-center">
+//         <ResponsiveContainer width="100%" height="100%">
+//           <LineChart
+//             width={500}
+//             height={300}
+//             data={riskVDay}
+//             margin={{
+//               top: 5,
+//               right: 30,
+//               left: 20,
+//               bottom: 5,
+//             }}
+//           >
+//             <CartesianGrid strokeDasharray="3 3" />
+//             <XAxis dataKey="day" />
+//             <YAxis />
+//             <Tooltip />
+//             <Line type="monotone" dataKey="count" stroke="#FFD700" />
+//           </LineChart>
+//         </ResponsiveContainer>
+//         <span className="text-lg">
+//           Number of Logs With Predicted Risk &gt;= 70
+//         </span>
+//       </div>
+//       <div class="flex w-full h-1/2 items-center">
+//         <div class="w-1/2 h-full flex flex-col items-center">
+//           <ResponsiveContainer width="100%" height="100%">
+//             <PieChart width={800} height={400}>
+//               <Tooltip />
+
+//               <Pie
+//                 data={riskEventType}
+//                 cx={285}
+//                 cy={140}
+//                 innerRadius={120}
+//                 outerRadius={140}
+//                 fill="#8884d8"
+//                 dataKey="count"
+//               >
+//                 {riskEventType.map((entry, index) => (
+//                   <Cell
+//                     key={`cell-${index}`}
+//                     fill={COLORS[index % COLORS.length]}
+//                   />
+//                 ))}
+//               </Pie>
+//             </PieChart>
+//           </ResponsiveContainer>
+//           <span className="text-lg">
+//             Predicted Risk &gt;= 70 Grouped By Event Type
+//           </span>
+//         </div>
+//         <div className="w-1/2 h-full flex flex-col items-center gap-2">
+//           <ResponsiveContainer width="100%" height="100%">
+//             <RadialBarChart
+//               cx="50%"
+//               cy="50%"
+//               innerRadius="10%"
+//               outerRadius="80%"
+//               barSize={10}
+//               data={riskVUser}
+//             >
+//               <RadialBar
+//                 minAngle={15}
+//                 label={{ position: "insideStart", fill: "#fff" }}
+//                 dataKey="count"
+//               />
+//               <Tooltip />
+//               <Legend iconSize={10} layout="horizontal" align="center" />
+//             </RadialBarChart>
+//           </ResponsiveContainer>
+
+//           <span className="text-lg">
+//             Predicted Risk &gt; 70 Grouped By Users
+//           </span>
+//         </div>
+//       </div>
+//     </section>
+//   );
+// }
+
 "use client";
 import React, { useEffect, useState } from "react";
 import {
@@ -15,28 +134,42 @@ import {
   RadialBar,
   Legend,
 } from "recharts";
+
 const COLORS = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042"];
 
-export default function page() {
+export default function Page() {
   const [riskVDay, setRiskVDay] = useState([]);
   const [riskEventType, setRiskEventType] = useState([]);
   const [riskVUser, setRiskVUser] = useState([]);
+
   useEffect(() => {
-    const fn = async () => {
-      const response = fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/admin/ml`);
-      response.then(async (r) => {
-        const j = await r.json();
-        setRiskVDay(j.riskVDay);
-        setRiskEventType(j.riskEventType);
-        setRiskVUser(j.riskVUser);
-      });
-    };
-    fn();
+    // Hardcoded Risk Data for Analysis
+    setRiskVDay([
+      { day: "2025-02-01", count: 15 },
+      { day: "2025-02-02", count: 20 },
+      { day: "2025-02-03", count: 18 },
+      { day: "2025-02-04", count: 22 },
+      { day: "2025-02-05", count: 25 },
+    ]);
+
+    setRiskEventType([
+      { type: "Suspicious Login", count: 12 },
+      { type: "Failed Transactions", count: 8 },
+      { type: "API Abuse", count: 10 },
+      { type: "Data Breach Attempt", count: 15 },
+    ]);
+
+    setRiskVUser([
+      { user: "User A", count: 5 },
+      { user: "User B", count: 8 },
+      { user: "User C", count: 10 },
+      { user: "User D", count: 7 },
+    ]);
   }, []);
 
   return (
     <section className="w-full h-screen gap-8 flex flex-col items-center mb-12">
-      <div class="flex flex-col w-full h-1/2 items-center">
+      <div className="flex flex-col w-full h-1/2 items-center">
         <ResponsiveContainer width="100%" height="100%">
           <LineChart
             width={500}
@@ -60,12 +193,12 @@ export default function page() {
           Number of Logs With Predicted Risk &gt;= 70
         </span>
       </div>
-      <div class="flex w-full h-1/2 items-center">
-        <div class="w-1/2 h-full flex flex-col items-center">
+
+      <div className="flex w-full h-1/2 items-center">
+        <div className="w-1/2 h-full flex flex-col items-center">
           <ResponsiveContainer width="100%" height="100%">
             <PieChart width={800} height={400}>
               <Tooltip />
-
               <Pie
                 data={riskEventType}
                 cx={285}
@@ -76,10 +209,7 @@ export default function page() {
                 dataKey="count"
               >
                 {riskEventType.map((entry, index) => (
-                  <Cell
-                    key={`cell-${index}`}
-                    fill={COLORS[index % COLORS.length]}
-                  />
+                  <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
                 ))}
               </Pie>
             </PieChart>
@@ -88,6 +218,7 @@ export default function page() {
             Predicted Risk &gt;= 70 Grouped By Event Type
           </span>
         </div>
+
         <div className="w-1/2 h-full flex flex-col items-center gap-2">
           <ResponsiveContainer width="100%" height="100%">
             <RadialBarChart
@@ -98,18 +229,13 @@ export default function page() {
               barSize={10}
               data={riskVUser}
             >
-              <RadialBar
-                minAngle={15}
-                label={{ position: "insideStart", fill: "#fff" }}
-                dataKey="count"
-              />
+              <RadialBar minAngle={15} label={{ position: "insideStart", fill: "#fff" }} dataKey="count" />
               <Tooltip />
               <Legend iconSize={10} layout="horizontal" align="center" />
             </RadialBarChart>
           </ResponsiveContainer>
-
           <span className="text-lg">
-            Predicted Risk &gt; 70 Grouped By Users
+            Predicted Risk &gt;= 70 Grouped By Users
           </span>
         </div>
       </div>
